@@ -1,0 +1,882 @@
+sessionID,session_title,conference_title,date,year,ordinal,participantID,fname,mname,lname,full
+1,Regional Authors Reading,Humanimal,3/27/2012,2012,43rd,143,Kevin,,Zepper,Kevin Zepper
+1,Regional Authors Reading,Humanimal,3/27/2012,2012,43rd,193,Nancy,,Devine,Nancy Devine
+2,Reading: Aaron Poochigian,Humanimal,3/27/2012,2012,43rd,1,Aaron,,Poochigian,Aaron Poochigian
+3,Panel: Bestiary: Animals in Our Imaginations,Humanimal,3/28/2012,2012,43rd,1,Aaron,,Poochigian,Aaron Poochigian
+3,Panel: Bestiary: Animals in Our Imaginations,Humanimal,3/28/2012,2012,43rd,93,Hal,,Herzog,Hal Herzog
+3,Panel: Bestiary: Animals in Our Imaginations,Humanimal,3/28/2012,2012,43rd,149,Lee Ann,,Roripaugh,Lee Ann Roripaugh
+4,Reading: Hal Herzog,Humanimal,3/28/2012,2012,43rd,93,Hal,,Herzog,Hal Herzog
+5,Reading: Pam Houston,Humanimal,3/28/2012,2012,43rd,202,Pam,,Houston,Pam Houston
+6,Panel: Creatures of Habit,Humanimal,3/29/2012,2012,43rd,1,Aaron,,Poochigian,Aaron Poochigian
+6,Panel: Creatures of Habit,Humanimal,3/29/2012,2012,43rd,36,Brenda,,Miller,Brenda Miller
+6,Panel: Creatures of Habit,Humanimal,3/29/2012,2012,43rd,93,Hal,,Herzog,Hal Herzog
+6,Panel: Creatures of Habit,Humanimal,3/29/2012,2012,43rd,202,Pam,,Houston,Pam Houston
+7,Reading: Brenda Miller,Humanimal,3/29/2012,2012,43rd,36,Brenda,,Miller,Brenda Miller
+8,Reading: Lee Ann Roripaugh,Humanimal,3/29/2012,2012,43rd,149,Lee Ann,,Roripaugh,Lee Ann Roripaugh
+9,Reading: Mark Doty,Humanimal,3/30/2012,2012,43rd,171,Mark,,Doty,Mark Doty
+10,Panel: Adult Companions,Humanimal,3/30/2012,2012,43rd,36,Brenda,,Miller,Brenda Miller
+10,Panel: Adult Companions,Humanimal,3/30/2012,2012,43rd,106,Jane,,Smiley,Jane Smiley
+10,Panel: Adult Companions,Humanimal,3/30/2012,2012,43rd,149,Lee Ann,,Roripaugh,Lee Ann Roripaugh
+10,Panel: Adult Companions,Humanimal,3/30/2012,2012,43rd,171,Mark,,Doty,Mark Doty
+10,Panel: Adult Companions,Humanimal,3/30/2012,2012,43rd,202,Pam,,Houston,Pam Houston
+11,A Great Conversation with Jane Smiley,Humanimal,3/30/2012,2012,43rd,106,Jane,,Smiley,Jane Smiley
+12,Reading: Loida Maritza Pérez,(Inter)National Affairs,3/30/2011,2011,42nd,155,Loida,Maritza,Pèrez,Loida Maritza Pèrez
+13,Reading: Susan Deer Cloud,(Inter)National Affairs,4/1/2011,2011,42nd,255,Susan,,Deer Cloud,Susan Deer Cloud
+13,Reading: Susan Deer Cloud,(Inter)National Affairs,4/1/2011,2011,42nd,310,Denise,,Lajimodiere,Denise Lajimodiere
+14,A Great Conversation with Jamaica Kincaid,(Inter)National Affairs,4/1/2011,2011,42nd,98,Jamaica,,Kincaid,Jamaica Kincaid
+15,Reading: Maxine Hong Kingston,(Inter)National Affairs,3/31/2011,2011,42nd,179,Maxine,Hong,Kingston,Maxine Hong Kingston
+16,Reading: Sean Mclain Brown and Jim Castellanos,(Inter)National Affairs,3/31/2011,2011,42nd,112,Jim,,Castellanos,Jim Castellanos
+16,Reading: Sean Mclain Brown and Jim Castellanos,(Inter)National Affairs,3/31/2011,2011,42nd,246,Sean,Mclain,Brown,Sean Mclain Brown
+17,Reading: Carl Phillips,(Inter)National Affairs,3/29/2011,2011,42nd,37,Carl,,Phillips,Carl Phillips
+18,Presentation: Matthew Sienkiewicz,(Inter)National Affairs,3/30/2011,2011,42nd,177,Matthew,,Sienkiewicz,Matthew Sienkiewicz
+19,Reading: Amoussa Koriko ,(Inter)National Affairs,3/29/2011,2011,42nd,14,Amoussa,,Koriko,Amoussa Koriko
+20,Panel: Lost in Translation?,(Inter)National Affairs,3/30/2011,2011,42nd,14,Amoussa,,Koriko,Amoussa Koriko
+20,Panel: Lost in Translation?,(Inter)National Affairs,3/30/2011,2011,42nd,37,Carl,,Phillips,Carl Phillips
+20,Panel: Lost in Translation?,(Inter)National Affairs,3/30/2011,2011,42nd,237,Russell,Scott,Valentino,Russell Scott Valentino
+21,Panel: In Between Places,(Inter)National Affairs,4/1/2011,2011,42nd,14,Amoussa,,Koriko,Amoussa Koriko
+21,Panel: In Between Places,(Inter)National Affairs,4/1/2011,2011,42nd,179,Maxine,Hong,Kingston,Maxine Hong Kingston
+21,Panel: In Between Places,(Inter)National Affairs,4/1/2011,2011,42nd,255,Susan,,Deer Cloud,Susan Deer Cloud
+22,Panel: Conflict Zones,(Inter)National Affairs,3/31/2011,2011,42nd,112,Jim,,Castellanos,Jim Castellanos
+22,Panel: Conflict Zones,(Inter)National Affairs,3/31/2011,2011,42nd,155,Loida,Maritza,Pèrez,Loida Maritza Pèrez
+22,Panel: Conflict Zones,(Inter)National Affairs,3/31/2011,2011,42nd,177,Matthew,,Sienkiewicz,Matthew Sienkiewicz
+22,Panel: Conflict Zones,(Inter)National Affairs,3/31/2011,2011,42nd,246,Sean,Mclain,Brown,Sean Mclain Brown
+23,Panel: Are Books Obsolete?,"Mind the Gap: Print, New Media, Art",3/23/2010,2010,41st,23,Art,,Spiegelman,Art Spiegelman
+23,Panel: Are Books Obsolete?,"Mind the Gap: Print, New Media, Art",3/23/2010,2010,41st,43,Cecelia,,Condit,Cecelia Condit
+23,Panel: Are Books Obsolete?,"Mind the Gap: Print, New Media, Art",3/23/2010,2010,41st,57,Deena,,Larsen,Deena Larsen
+24,Presentation: Deena Larsen,"Mind the Gap: Print, New Media, Art",3/23/2010,2010,41st,57,Deena,,Larsen,Deena Larsen
+25,A Conversation with Art Spiegelman,"Mind the Gap: Print, New Media, Art",3/23/2010,2010,41st,23,Art,,Spiegelman,Art Spiegelman
+26,Panel: Beyond the Page,"Mind the Gap: Print, New Media, Art",3/24/2010,2010,41st,57,Deena,,Larsen,Deena Larsen
+26,Panel: Beyond the Page,"Mind the Gap: Print, New Media, Art",3/24/2010,2010,41st,78,Frank,X.,Walker,Frank X. Walker
+26,Panel: Beyond the Page,"Mind the Gap: Print, New Media, Art",3/24/2010,2010,41st,170,Mark,,Amerika,Mark Amerika
+26,Panel: Beyond the Page,"Mind the Gap: Print, New Media, Art",3/24/2010,2010,41st,196,Nick,,Montfort,Nick Montfort
+27,Reading: Mark Amerika,"Mind the Gap: Print, New Media, Art",3/24/2010,2010,41st,170,Mark,,Amerika,Mark Amerika
+28,Presentation: Cecelia Condit,"Mind the Gap: Print, New Media, Art",3/24/2010,2010,41st,43,Cecelia,,Condit,Cecelia Condit
+29,Panel: Beyond the Screen,"Mind the Gap: Print, New Media, Art",3/25/2010,2010,41st,43,Cecelia,,Condit,Cecelia Condit
+29,Panel: Beyond the Screen,"Mind the Gap: Print, New Media, Art",3/25/2010,2010,41st,170,Mark,,Amerika,Mark Amerika
+29,Panel: Beyond the Screen,"Mind the Gap: Print, New Media, Art",3/25/2010,2010,41st,196,Nick,,Montfort,Nick Montfort
+29,Panel: Beyond the Screen,"Mind the Gap: Print, New Media, Art",3/25/2010,2010,41st,245,Scott,,Miller,Scott Miller
+29,Panel: Beyond the Screen,"Mind the Gap: Print, New Media, Art",3/25/2010,2010,41st,254,Stuart,,Moulthrop,Stuart Moulthrop
+30,Reading: Nick Montfort,"Mind the Gap: Print, New Media, Art",3/25/2010,2010,41st,196,Nick,,Montfort,Nick Montfort
+31,Reading: Frank X. Walker,"Mind the Gap: Print, New Media, Art",3/25/2010,2010,41st,78,Frank,X.,Walker,Frank X. Walker
+32,Panel: From Page to Stage,"Mind the Gap: Print, New Media, Art",3/26/2010,2010,41st,78,Frank,X.,Walker,Frank X. Walker
+32,Panel: From Page to Stage,"Mind the Gap: Print, New Media, Art",3/26/2010,2010,41st,244,Saul,,Williams,Saul Williams
+33,Reading: Stuart Moulthrop,"Mind the Gap: Print, New Media, Art",3/26/2010,2010,41st,254,Stuart,,Moulthrop,Stuart Moulthrop
+34,Performance: Saul Williams,"Mind the Gap: Print, New Media, Art",3/26/2010,2010,41st,244,Saul,,Williams,Saul Williams
+35,Reading: Marco Candida,Wit,3/31/2009,2009,40th,165,Marco,,Candida,Marco Candida
+36,Reading: Jacqueline Osherow,Wit,3/31/2009,2009,40th,97,Jacqueline,,Osherow,Jacqueline Osherow
+37,Panel: But Seriously,Wit,4/1/2009,2009,40th,90,Greg,,Williamson,Greg Williamson
+37,Panel: But Seriously,Wit,4/1/2009,2009,40th,97,Jacqueline,,Osherow,Jacqueline Osherow
+37,Panel: But Seriously,Wit,4/1/2009,2009,40th,135,Karen,,Russell,Karen Russell
+37,Panel: But Seriously,Wit,4/1/2009,2009,40th,165,Marco,,Candida,Marco Candida
+38,Reading: Greg Williamson,Wit,4/1/2009,2009,40th,90,Greg,,Williamson,Greg Williamson
+39,Reading: Steve Almond,Wit,4/1/2009,2009,40th,252,Steve,,Almond,Steve Almond
+40,Panel: What’s So Funny?,Wit,4/2/2009,2009,40th,48,Chuck,,Klosterman,Chuck Klosterman
+40,Panel: What’s So Funny?,Wit,4/2/2009,2009,40th,90,Greg,,Williamson,Greg Williamson
+40,Panel: What’s So Funny?,Wit,4/2/2009,2009,40th,135,Karen,,Russell,Karen Russell
+40,Panel: What’s So Funny?,Wit,4/2/2009,2009,40th,252,Steve,,Almond,Steve Almond
+41,Reading: Karen Russell,Wit,4/2/2009,2009,40th,135,Karen,,Russell,Karen Russell
+42,Reading: Chuck Klosterman,Wit,4/2/2009,2009,40th,48,Chuck,,Klosterman,Chuck Klosterman
+43,Panel: The Comic Ghetto,Wit,4/3/2009,2009,40th,45,Charles,,Baxter,Charles Baxter
+43,Panel: The Comic Ghetto,Wit,4/3/2009,2009,40th,48,Chuck,,Klosterman,Chuck Klosterman
+43,Panel: The Comic Ghetto,Wit,4/3/2009,2009,40th,252,Steve,,Almond,Steve Almond
+44,A Tribute to John Little,Wit,4/3/2009,2009,40th,NULL,NULL,NULL,NULL,NULL
+45,Reading: Charles Baxter,Wit,4/3/2009,2009,40th,45,Charles,,Baxter,Charles Baxter
+46,A Conversation with Salman Rushdie,Revolutions,3/25/2008,2008,39th,239,Salman,,Rushdie,Salman Rushdie
+47,Panel: Revolutions,Revolutions,3/26/2008,2008,39th,6,Alexandra,,Fuller,Alexandra Fuller
+47,Panel: Revolutions,Revolutions,3/26/2008,2008,39th,209,Peter,,Kuper,Peter Kuper
+47,Panel: Revolutions,Revolutions,3/26/2008,2008,39th,239,Salman,,Rushdie,Salman Rushdie
+48,Presentation: Peter Kuper,Revolutions,3/26/2008,2008,39th,209,Peter,,Kuper,Peter Kuper
+49,Reading: Alexandra Fuller,Revolutions,3/26/2008,2008,39th,6,Alexandra,,Fuller,Alexandra Fuller
+50,Panel: Revolutions in Writing,Revolutions,3/27/2008,2008,39th,8,Alice,,Fulton,Alice Fulton
+50,Panel: Revolutions in Writing,Revolutions,3/27/2008,2008,39th,133,Junot,,Diaz,Junot Diaz
+50,Panel: Revolutions in Writing,Revolutions,3/27/2008,2008,39th,209,Peter,,Kuper,Peter Kuper
+51,Reading: Junot Diaz,Revolutions,3/27/2008,2008,39th,133,Junot,,Diaz,Junot Diaz
+52,Reading: Alice Fulton,Revolutions,3/27/2008,2008,39th,8,Alice,,Fulton,Alice Fulton
+53,Panel: Revolutions in Time,Revolutions,3/28/2008,2008,39th,8,Alice,,Fulton,Alice Fulton
+53,Panel: Revolutions in Time,Revolutions,3/28/2008,2008,39th,133,Junot,,Diaz,Junot Diaz
+53,Panel: Revolutions in Time,Revolutions,3/28/2008,2008,39th,236,Russell,,Banks,Russell Banks
+54,Reading: Regional Authors,Revolutions,3/28/2008,2008,39th,138,Katrina,,Vandenburg,Katrina Vandenburg
+54,Reading: Regional Authors,Revolutions,3/28/2008,2008,39th,163,Madelyn,,Camrud,Madelyn Camrud
+54,Reading: Regional Authors,Revolutions,3/28/2008,2008,39th,291,Zach,,Kobrinsky,Zach Kobrinsky
+55,Reading: Russell Banks,Revolutions,3/28/2008,2008,39th,236,Russell,,Banks,Russell Banks
+56,Reading: Stuart Dybek,Writing the Body,3/28/2007,2007,38th,253,Stuart,,Dybek,Stuart Dybek
+57,Reading: Mary Gaitskill,Writing the Body,3/30/2007,2007,38th,176,Mary,,Gaitskill,Mary Gaitskill
+58,A Conversation with Li-Young Lee,Writing the Body,3/29/2007,2007,38th,154,Li-Young,,Lee,Li-Young Lee
+59,Reading: Timothy Liu,Writing the Body,3/28/2007,2007,38th,271,Timothy,,Liu,Timothy Liu
+60,Presentation: Leslie Adrienne Miller,Writing the Body,3/30/2007,2007,38th,150,Leslie,Adrienne,Miller,Leslie Adrienne Miller
+61,Reading: Michelle Richmond,Writing the Body,3/29/2007,2007,38th,187,Michelle,,Richmond,Michelle Richmond
+62,Lecture: Miller Williams,Writing the Body,3/27/2007,2007,38th,188,Miller,,Williams,Miller Williams
+63,Panel: The Body Politic,Writing the Body,3/29/2007,2007,38th,188,Miller,,Williams,Miller Williams
+63,Panel: The Body Politic,Writing the Body,3/29/2007,2007,38th,253,Stuart,,Dybek,Stuart Dybek
+63,Panel: The Body Politic,Writing the Body,3/29/2007,2007,38th,271,Timothy,,Liu,Timothy Liu
+64,Panel: The Metaphorical Body,Writing the Body,3/28/2007,2007,38th,18,Anne,,Harris,Anne Harris
+64,Panel: The Metaphorical Body,Writing the Body,3/28/2007,2007,38th,154,Li-Young,,Lee,Li-Young Lee
+64,Panel: The Metaphorical Body,Writing the Body,3/28/2007,2007,38th,187,Michelle,,Richmond,Michelle Richmond
+64,Panel: The Metaphorical Body,Writing the Body,3/28/2007,2007,38th,188,Miller,,Williams,Miller Williams
+65,Panel: The Sexual Body,Writing the Body,3/30/2007,2007,38th,150,Leslie,Adrienne,Miller,Leslie Adrienne Miller
+65,Panel: The Sexual Body,Writing the Body,3/30/2007,2007,38th,176,Mary,,Gaitskill,Mary Gaitskill
+65,Panel: The Sexual Body,Writing the Body,3/30/2007,2007,38th,253,Stuart,,Dybek,Stuart Dybek
+65,Panel: The Sexual Body,Writing the Body,3/30/2007,2007,38th,271,Timothy,,Liu,Timothy Liu
+67,Reading: Branca Vilela,Border Crossings,3/21/2006,2006,37th,35,Branca,,Vilela,Branca Vilela
+68,Lecture: Barry Lopez,Border Crossings,3/21/2006,2006,37th,28,Barry,,Lopez,Barry Lopez
+69,Panel: Writing Sans Frontiers: Writing Across Geographical/Cultural Borders,Border Crossings,3/22/2006,2006,37th,28,Barry,,Lopez,Barry Lopez
+69,Panel: Writing Sans Frontiers: Writing Across Geographical/Cultural Borders,Border Crossings,3/22/2006,2006,37th,35,Branca,,Vilela,Branca Vilela
+69,Panel: Writing Sans Frontiers: Writing Across Geographical/Cultural Borders,Border Crossings,3/22/2006,2006,37th,230,Robin,,Magowan,Robin Magowan
+69,Panel: Writing Sans Frontiers: Writing Across Geographical/Cultural Borders,Border Crossings,3/22/2006,2006,37th,240,Sam,,Pickering,Sam Pickering
+70,Reading: Robin Magowan,Border Crossings,3/22/2006,2006,37th,230,Robin,,Magowan,Robin Magowan
+71,A Conversation with Sam Pickering,Border Crossings,3/22/2006,2006,37th,240,Sam,,Pickering,Sam Pickering
+72,"Panel: Writing The Threshold:  Writing Across Social,  Political, and Gendered Boundaries",Border Crossings,3/23/2006,2006,37th,39,Carol,,Gilligan,Carol Gilligan
+72,"Panel: Writing The Threshold:  Writing Across Social,  Political, and Gendered Boundaries",Border Crossings,3/23/2006,2006,37th,76,Fan,,Shen,Fan Shen
+72,"Panel: Writing The Threshold:  Writing Across Social,  Political, and Gendered Boundaries",Border Crossings,3/23/2006,2006,37th,172,Mark,,Salzman,Mark Salzman
+72,"Panel: Writing The Threshold:  Writing Across Social,  Political, and Gendered Boundaries",Border Crossings,3/23/2006,2006,37th,230,Robin,,Magowan,Robin Magowan
+72,"Panel: Writing The Threshold:  Writing Across Social,  Political, and Gendered Boundaries",Border Crossings,3/23/2006,2006,37th,240,Sam,,Pickering,Sam Pickering
+73,Reading: Carol Gilligan,Border Crossings,3/23/2006,2006,37th,39,Carol,,Gilligan,Carol Gilligan
+74,Reading: Fan Shen,Border Crossings,3/23/2006,2006,37th,76,Fan,,Shen,Fan Shen
+75,Panel: Writing Around Borders: The Shifting Geography of Genre,Border Crossings,3/24/2006,2006,37th,35,Branca,,Vilela,Branca Vilela
+75,Panel: Writing Around Borders: The Shifting Geography of Genre,Border Crossings,3/24/2006,2006,37th,76,Fan,,Shen,Fan Shen
+75,Panel: Writing Around Borders: The Shifting Geography of Genre,Border Crossings,3/24/2006,2006,37th,172,Mark,,Salzman,Mark Salzman
+75,Panel: Writing Around Borders: The Shifting Geography of Genre,Border Crossings,3/24/2006,2006,37th,192,Nance,,van Winckel,Nance van Winckel
+76,Reading: Nance van Winckel,Border Crossings,3/24/2006,2006,37th,192,Nance,,van Winckel,Nance van Winckel
+77,Reading: Mark Salzman,Border Crossings,3/22/2006,2006,37th,172,Mark,,Salzman,Mark Salzman
+78,Panel: The Politics of Illusion,Hope/Illusion,3/30/2005,2005,36th,41,Carolyn,,Forché,Carolyn Forché
+78,Panel: The Politics of Illusion,Hope/Illusion,3/30/2005,2005,36th,107,Jane,,Urquhart,Jane Urquhart
+78,Panel: The Politics of Illusion,Hope/Illusion,3/30/2005,2005,36th,161,Luis,,Camnitzer,Luis Camnitzer
+78,Panel: The Politics of Illusion,Hope/Illusion,3/30/2005,2005,36th,281,Virginia,,Martinez,Virginia Martinez
+79,Reading: Virginia Martinez,Hope/Illusion,3/30/2005,2005,36th,281,Virginia,,Martinez,Virginia Martinez
+80,Reading: Carolyn Forché,Hope/Illusion,3/30/2005,2005,36th,41,Carolyn,,Forché,Carolyn Forché
+81,"Panel: Spirituality, Culture, and Hope",Hope/Illusion,3/31/2005,2005,36th,46,Charles,,Johnson,Charles Johnson
+81,"Panel: Spirituality, Culture, and Hope",Hope/Illusion,3/31/2005,2005,36th,107,Jane,,Urquhart,Jane Urquhart
+81,"Panel: Spirituality, Culture, and Hope",Hope/Illusion,3/31/2005,2005,36th,281,Virginia,,Martinez,Virginia Martinez
+82,Reading: Jane Urquhart,Hope/Illusion,3/31/2005,2005,36th,107,Jane,,Urquhart,Jane Urquhart
+83,Reading: Charles Johnson,Hope/Illusion,3/31/2005,2005,36th,46,Charles,,Johnson,Charles Johnson
+84,Panel: Hope and Illusion in Writing,Hope/Illusion,4/1/2005,2005,36th,46,Charles,,Johnson,Charles Johnson
+84,Panel: Hope and Illusion in Writing,Hope/Illusion,4/1/2005,2005,36th,47,Chris,,Belden,Chris Belden
+84,Panel: Hope and Illusion in Writing,Hope/Illusion,4/1/2005,2005,36th,168,Marilyn,,Nelson,Marilyn Nelson
+85,Performance: Chris Belden,Hope/Illusion,4/1/2005,2005,36th,47,Chris,,Belden,Chris Belden
+86,Reading: Marilyn Nelson,Hope/Illusion,4/1/2005,2005,36th,168,Marilyn,,Nelson,Marilyn Nelson
+87,Panel: Landscapes,Hope/Illusion,4/2/2005,2005,36th,47,Chris,,Belden,Chris Belden
+87,Panel: Landscapes,Hope/Illusion,4/2/2005,2005,36th,108,Jane,,Varley,Jane Varley
+87,Panel: Landscapes,Hope/Illusion,4/2/2005,2005,36th,137,Kathleen,,Norris,Kathleen Norris
+87,Panel: Landscapes,Hope/Illusion,4/2/2005,2005,36th,168,Marilyn,,Nelson,Marilyn Nelson
+88,Reading: Jane Varley,Hope/Illusion,4/2/2005,2005,36th,108,Jane,,Varley,Jane Varley
+89,Reading: Kathleen Norris,Hope/Illusion,4/2/2005,2005,36th,137,Kathleen,,Norris,Kathleen Norris
+90,Panel: Writing on the Northern Plains,3:05,3/24/2004,2004,35th,147,Larry,,Woiwode,Larry Woiwode
+90,Panel: Writing on the Northern Plains,3:05,3/24/2004,2004,35th,158,Louise,,Erdrich,Louise Erdrich
+90,Panel: Writing on the Northern Plains,3:05,3/24/2004,2004,35th,173,Mark,,Turcotte,Mark Turcotte
+91,Reading: Louise Erdrich,3:05,3/24/2004,2004,35th,158,Louise,,Erdrich,Louise Erdrich
+92,Panel: Country of Origin,3:05,3/25/2004,2004,35th,20,Annie,,Dawid,Annie Dawid
+92,Panel: Country of Origin,3:05,3/25/2004,2004,35th,71,Elmaz,,Abinader,Elmaz Abinader
+92,Panel: Country of Origin,3:05,3/25/2004,2004,35th,158,Louise,,Erdrich,Louise Erdrich
+92,Panel: Country of Origin,3:05,3/25/2004,2004,35th,173,Mark,,Turcotte,Mark Turcotte
+93,Reading: Marilynne Robinson,3:05,3/25/2004,2004,35th,169,Marilynne,,Robinson,Marilynne Robinson
+94,Reading: Larry Woiwode,3:05,3/25/2004,2004,35th,147,Larry,,Woiwode,Larry Woiwode
+95,"Panel: Essay, Fiction, Poem, Memoir: How to Choose",3:05,3/26/2004,2004,35th,5,Albert,,Goldbarth,Albert Goldbarth
+95,"Panel: Essay, Fiction, Poem, Memoir: How to Choose",3:05,3/26/2004,2004,35th,71,Elmaz,,Abinader,Elmaz Abinader
+95,"Panel: Essay, Fiction, Poem, Memoir: How to Choose",3:05,3/26/2004,2004,35th,147,Larry,,Woiwode,Larry Woiwode
+95,"Panel: Essay, Fiction, Poem, Memoir: How to Choose",3:05,3/26/2004,2004,35th,169,Marilynne,,Robinson,Marilynne Robinson
+95,"Panel: Essay, Fiction, Poem, Memoir: How to Choose",3:05,3/26/2004,2004,35th,275,Tony,,Buba,Tony Buba
+96,Performance: Elmaz Abinader/Tony Khalife,3:05,3/26/2004,2004,35th,71,Elmaz,,Abinader,Elmaz Abinader
+96,Performance: Elmaz Abinader/Tony Khalife,3:05,3/26/2004,2004,35th,276,Tony,,Khalife,Tony Khalife
+97,Panel: New Directions,3:05,3/27/2004,2004,35th,5,Albert,,Goldbarth,Albert Goldbarth
+97,Panel: New Directions,3:05,3/27/2004,2004,35th,169,Marilynne,,Robinson,Marilynne Robinson
+97,Panel: New Directions,3:05,3/27/2004,2004,35th,275,Tony,,Buba,Tony Buba
+98,Reading: Annie Dawid,3:05,3/27/2004,2004,35th,20,Annie,,Dawid,Annie Dawid
+99,Reading: Albert Goldbarth,3:05,3/27/2004,2004,35th,5,Albert,,Goldbarth,Albert Goldbarth
+100,Reading: Dr. Oliver Sacks,Art & Science,3/25/2003,2003,34th,201,Oliver,,Sacks,Oliver Sacks
+101,Panel: Art & Science,Art & Science,3/26/2003,2003,34th,131,Julia,,Whitty,Julia Whitty
+101,Panel: Art & Science,Art & Science,3/26/2003,2003,34th,194,Natalie,,Angier,Natalie Angier
+101,Panel: Art & Science,Art & Science,3/26/2003,2003,34th,201,Oliver,,Sacks,Oliver Sacks
+101,Panel: Art & Science,Art & Science,3/26/2003,2003,34th,262,Ted,,Mooney,Ted Mooney
+102,Reading: Julia Whitty,Art & Science,3/26/2003,2003,34th,131,Julia,,Whitty,Julia Whitty
+103,Presentation: Natalie Angier,Art & Science,3/26/2003,2003,34th,194,Natalie,,Angier,Natalie Angier
+104,Panel: Science Fact/Science Fiction,Art & Science,3/27/2003,2003,34th,60,Devra,,Davis,Devra Davis
+104,Panel: Science Fact/Science Fiction,Art & Science,3/27/2003,2003,34th,131,Julia,,Whitty,Julia Whitty
+104,Panel: Science Fact/Science Fiction,Art & Science,3/27/2003,2003,34th,194,Natalie,,Angier,Natalie Angier
+104,Panel: Science Fact/Science Fiction,Art & Science,3/27/2003,2003,34th,262,Ted,,Mooney,Ted Mooney
+104,Panel: Science Fact/Science Fiction,Art & Science,3/27/2003,2003,34th,266,Thomas,,Disch,Thomas Disch
+105,Reading: Ted Mooney,Art & Science,3/27/2003,2003,34th,262,Ted,,Mooney,Ted Mooney
+106,Reading: Thomas Disch,Art & Science,3/27/2003,2003,34th,266,Thomas,,Disch,Thomas Disch
+107,Panel: Science as Cosmology,Art & Science,3/28/2003,2003,34th,9,Alison,,Hawthorne-Deming,Alison Hawthorne-Deming
+107,Panel: Science as Cosmology,Art & Science,3/28/2003,2003,34th,205,Pattiann,,Rogers,Pattiann Rogers
+107,Panel: Science as Cosmology,Art & Science,3/28/2003,2003,34th,266,Thomas,,Disch,Thomas Disch
+108,Reading: Alison Hawthorne-Deming,Art & Science,3/28/2003,2003,34th,9,Alison,,Hawthorne-Deming,Alison Hawthorne-Deming
+109,Reading: Pattiann Rogers,Art & Science,3/28/2003,2003,34th,205,Pattiann,,Rogers,Pattiann Rogers
+110,Panel: Science and Poetry,Art & Science,3/29/2003,2003,34th,9,Alison,,Hawthorne-Deming,Alison Hawthorne-Deming
+110,Panel: Science and Poetry,Art & Science,3/29/2003,2003,34th,205,Pattiann,,Rogers,Pattiann Rogers
+110,Panel: Science and Poetry,Art & Science,3/29/2003,2003,34th,212,Rafael,,Campo,Rafael Campo
+111,Reading: Devra Davis,Art & Science,3/29/2003,2003,34th,60,Devra,,Davis,Devra Davis
+112,Reading: Dr. Rafael Campo,Art & Science,3/29/2003,2003,34th,212,Rafael,,Campo,Rafael Campo
+113,Panel: Staying Put/Taking Off,Explorations,3/19/2002,2002,33rd,184,Michael,,Martone,Michael Martone
+113,Panel: Staying Put/Taking Off,Explorations,3/19/2002,2002,33rd,243,Sara,,Wheeler,Sara Wheeler
+113,Panel: Staying Put/Taking Off,Explorations,3/19/2002,2002,33rd,248,Sharon,,Doubiago,Sharon Doubiago
+114,Reading: Michael Martone,Explorations,3/19/2002,2002,33rd,184,Michael,,Martone,Michael Martone
+115,Reading: Sara Wheeler,Explorations,3/19/2002,2002,33rd,243,Sara,,Wheeler,Sara Wheeler
+116,Panel: Why This Trip/What to Pack,Explorations,3/20/2002,2002,33rd,136,Kate,,Daniels,Kate Daniels
+116,Panel: Why This Trip/What to Pack,Explorations,3/20/2002,2002,33rd,184,Michael,,Martone,Michael Martone
+116,Panel: Why This Trip/What to Pack,Explorations,3/20/2002,2002,33rd,243,Sara,,Wheeler,Sara Wheeler
+116,Panel: Why This Trip/What to Pack,Explorations,3/20/2002,2002,33rd,248,Sharon,,Doubiago,Sharon Doubiago
+117,Reading: Sharon Doubiago,Explorations,3/20/2002,2002,33rd,248,Sharon,,Doubiago,Sharon Doubiago
+118,Reading: Kate Daniels,Explorations,3/20/2002,2002,33rd,136,Kate,,Daniels,Kate Daniels
+119,Panel: Writing as Exploration,Explorations,3/21/2002,2002,33rd,30,Bill,,Holm,Bill Holm
+119,Panel: Writing as Exploration,Explorations,3/21/2002,2002,33rd,55,David,,Treuer,David Treuer
+119,Panel: Writing as Exploration,Explorations,3/21/2002,2002,33rd,65,Eddy,,Harris,Eddy Harris
+119,Panel: Writing as Exploration,Explorations,3/21/2002,2002,33rd,136,Kate,,Daniels,Kate Daniels
+119,Panel: Writing as Exploration,Explorations,3/21/2002,2002,33rd,278,Ursula,,Hegi,Ursula Hegi
+120,Reading: David Treuer,Explorations,3/21/2002,2002,33rd,55,David,,Treuer,David Treuer
+121,Reading: Ursula Hegi,Explorations,3/21/2002,2002,33rd,278,Ursula,,Hegi,Ursula Hegi
+122,Panel: As Others See Us,Explorations,3/22/2002,2002,33rd,30,Bill,,Holm,Bill Holm
+122,Panel: As Others See Us,Explorations,3/22/2002,2002,33rd,55,David,,Treuer,David Treuer
+122,Panel: As Others See Us,Explorations,3/22/2002,2002,33rd,65,Eddy,,Harris,Eddy Harris
+123,Reading: Eddy Harris,Explorations,3/22/2002,2002,33rd,65,Eddy,,Harris,Eddy Harris
+124,Reading: Bill Holm,Explorations,3/22/2002,2002,33rd,30,Bill,,Holm,Bill Holm
+125,Panel: Writer's Work,Worklife/Lifework,3/20/2001,2001,32nd,83,Gary,,Fisketjon,Gary Fisketjon
+125,Panel: Writer's Work,Worklife/Lifework,3/20/2001,2001,32nd,195,Natasha,,Trethewey,Natasha Trethewey
+125,Panel: Writer's Work,Worklife/Lifework,3/20/2001,2001,32nd,208,Peter,,Carey,Peter Carey
+126,Reading: Gary Fisketjon,Worklife/Lifework,3/20/2001,2001,32nd,83,Gary,,Fisketjon,Gary Fisketjon
+127,Reading: Peter Carey,Worklife/Lifework,3/20/2001,2001,32nd,208,Peter,,Carey,Peter Carey
+128,Panel: The Editor's Work,Worklife/Lifework,3/21/2001,2001,32nd,83,Gary,,Fisketjon,Gary Fisketjon
+128,Panel: The Editor's Work,Worklife/Lifework,3/21/2001,2001,32nd,129,Joy,,Williams,Joy Williams
+128,Panel: The Editor's Work,Worklife/Lifework,3/21/2001,2001,32nd,142,Kent,,Haruf,Kent Haruf
+128,Panel: The Editor's Work,Worklife/Lifework,3/21/2001,2001,32nd,208,Peter,,Carey,Peter Carey
+129,Reading: Joy Williams,Worklife/Lifework,3/21/2001,2001,32nd,129,Joy,,Williams,Joy Williams
+130,Reading: Kent Haruf,Worklife/Lifework,3/21/2001,2001,32nd,142,Kent,,Haruf,Kent Haruf
+131,Panel: The Heart of the Work,Worklife/Lifework,3/22/2001,2001,32nd,129,Joy,,Williams,Joy Williams
+131,Panel: The Heart of the Work,Worklife/Lifework,3/22/2001,2001,32nd,195,Natasha,,Trethewey,Natasha Trethewey
+131,Panel: The Heart of the Work,Worklife/Lifework,3/22/2001,2001,32nd,200,Ofelia,,Zepeda,Ofelia Zepeda
+132,Reading: Natasha Trethewey,Worklife/Lifework,3/22/2001,2001,32nd,195,Natasha,,Trethewey,Natasha Trethewey
+134,Reading: Ofelia Zepeda,Worklife/Lifework,3/23/2001,2001,32nd,200,Ofelia,,Zepeda,Ofelia Zepeda
+135,Panel: Vietnam Shadows,Writing War,3/21/2000,2000,31st,21,Arnold,,Isaacs,Arnold Isaacs
+135,Panel: Vietnam Shadows,Writing War,3/21/2000,2000,31st,26,Barbara,,Sonneborn,Barbara Sonneborn
+135,Panel: Vietnam Shadows,Writing War,3/21/2000,2000,31st,117,John,,Balaban,John Balaban
+135,Panel: Vietnam Shadows,Writing War,3/21/2000,2000,31st,227,Robert,Olen,Butler,Robert Olen Butler
+136,Reading: Robert Olen Butler,Writing War,3/21/2000,2000,31st,227,Robert,Olen,Butler,Robert Olen Butler
+137,Panel: Imagining the Enemy,Writing War,3/22/2000,2000,31st,26,Barbara,,Sonneborn,Barbara Sonneborn
+137,Panel: Imagining the Enemy,Writing War,3/22/2000,2000,31st,96,Helen,,Fremont,Helen Fremont
+137,Panel: Imagining the Enemy,Writing War,3/22/2000,2000,31st,117,John,,Balaban,John Balaban
+137,Panel: Imagining the Enemy,Writing War,3/22/2000,2000,31st,159,Louis,,Simpson,Louis Simpson
+137,Panel: Imagining the Enemy,Writing War,3/22/2000,2000,31st,227,Robert,Olen,Butler,Robert Olen Butler
+138,Reading: Helen Fremont,Writing War,3/22/2000,2000,31st,96,Helen,,Fremont,Helen Fremont
+139,Reading: Louis Simpson,Writing War,3/22/2000,2000,31st,159,Louis,,Simpson,Louis Simpson
+140,Panel: Who is the Enemy,Writing War,3/23/2000,2000,31st,64,Eavan,,Boland,Eavan Boland
+140,Panel: Who is the Enemy,Writing War,3/23/2000,2000,31st,92,Ha,,Jin,Ha Jin
+140,Panel: Who is the Enemy,Writing War,3/23/2000,2000,31st,96,Helen,,Fremont,Helen Fremont
+140,Panel: Who is the Enemy,Writing War,3/23/2000,2000,31st,159,Louis,,Simpson,Louis Simpson
+140,Panel: Who is the Enemy,Writing War,3/23/2000,2000,31st,264,Tessa,,Bridal,Tessa Bridal
+141,Reading: Tessa Bridal,Writing War,3/23/2000,2000,31st,264,Tessa,,Bridal,Tessa Bridal
+142,Reading: Eavan Boland,Writing War,3/23/2000,2000,31st,64,Eavan,,Boland,Eavan Boland
+143,Panel: Writing War: Reflections and Responses,Writing War,3/24/2000,2000,31st,21,Arnold,,Isaacs,Arnold Isaacs
+143,Panel: Writing War: Reflections and Responses,Writing War,3/24/2000,2000,31st,64,Eavan,,Boland,Eavan Boland
+143,Panel: Writing War: Reflections and Responses,Writing War,3/24/2000,2000,31st,92,Ha,,Jin,Ha Jin
+144,Reading: Arnold Isaacs,Writing War,3/24/2000,2000,31st,21,Arnold,,Isaacs,Arnold Isaacs
+145,Reading: Ha Jin,Writing War,3/24/2000,2000,31st,92,Ha,,Jin,Ha Jin
+146,Panel: Defining the Sacred,Expressing the Sacred,3/16/1999,1999,30th,127,Joseph,,Bruchac,Joseph Bruchac
+146,Panel: Defining the Sacred,Expressing the Sacred,3/16/1999,1999,30th,171,Mark,,Doty,Mark Doty
+146,Panel: Defining the Sacred,Expressing the Sacred,3/16/1999,1999,30th,263,Terry,Tempest,Williams,Terry Tempest Williams
+147,Reading: Joseph Bruchac,Expressing the Sacred,3/16/1999,1999,30th,127,Joseph,,Bruchac,Joseph Bruchac
+148,Reading: Terry Tempest Williams,Expressing the Sacred,3/16/1999,1999,30th,263,Terry,Tempest,Williams,Terry Tempest Williams
+149,Panel: Faith and the Sacred,Expressing the Sacred,3/17/1999,1999,30th,127,Joseph,,Bruchac,Joseph Bruchac
+149,Panel: Faith and the Sacred,Expressing the Sacred,3/17/1999,1999,30th,171,Mark,,Doty,Mark Doty
+149,Panel: Faith and the Sacred,Expressing the Sacred,3/17/1999,1999,30th,224,Robert,,Clark,Robert Clark
+149,Panel: Faith and the Sacred,Expressing the Sacred,3/17/1999,1999,30th,263,Terry,Tempest,Williams,Terry Tempest Williams
+150,Reading: Mark Doty,Expressing the Sacred,3/17/1999,1999,30th,171,Mark,,Doty,Mark Doty
+151,Reading: Robert Clark,Expressing the Sacred,3/17/1999,1999,30th,224,Robert,,Clark,Robert Clark
+152,Panel: Art and the Sacred,Expressing the Sacred,3/18/1999,1999,30th,81,Galway,,Kinnell,Galway Kinnell
+152,Panel: Art and the Sacred,Expressing the Sacred,3/18/1999,1999,30th,210,Peter,,Matthiessen,Peter Matthiessen
+152,Panel: Art and the Sacred,Expressing the Sacred,3/18/1999,1999,30th,224,Robert,,Clark,Robert Clark
+152,Panel: Art and the Sacred,Expressing the Sacred,3/18/1999,1999,30th,235,Ruhama,,Veltfort,Ruhama Veltfort
+152,Panel: Art and the Sacred,Expressing the Sacred,3/18/1999,1999,30th,280,Victor,,"Masayesva, Jr.","Victor Masayesva, Jr."
+153,"Reading: Victor Masayesva, Jr.",Expressing the Sacred,3/18/1999,1999,30th,280,Victor,,"Masayesva, Jr.","Victor Masayesva, Jr."
+154,Reading: Galway Kinnell,Expressing the Sacred,3/18/1999,1999,30th,81,Galway,,Kinnell,Galway Kinnell
+155,Panel: Politics and the Sacred,Expressing the Sacred,3/19/1999,1999,30th,210,Peter,,Matthiessen,Peter Matthiessen
+155,Panel: Politics and the Sacred,Expressing the Sacred,3/19/1999,1999,30th,235,Ruhama,,Veltfort,Ruhama Veltfort
+155,Panel: Politics and the Sacred,Expressing the Sacred,3/19/1999,1999,30th,280,Victor,,"Masayesva, Jr.","Victor Masayesva, Jr."
+156,Reading: Ruhama Veltfort,Expressing the Sacred,3/19/1999,1999,30th,235,Ruhama,,Veltfort,Ruhama Veltfort
+157,Reading: Peter Matthiessen,Expressing the Sacred,3/19/1999,1999,30th,210,Peter,,Matthiessen,Peter Matthiessen
+158,Panel: What Went Down,the use of [HISTORY],3/24/1998,1998,29th,22,Arnost,,Lustig,Arnost Lustig
+158,Panel: What Went Down,the use of [HISTORY],3/24/1998,1998,29th,125,Josef,,Skvorecky,Josef Skvorecky
+159,Reading: Susan Yuzna,the use of [HISTORY],3/24/1998,1998,29th,259,Susan,,Yuzna,Susan Yuzna
+160,Reading: Josef Skvorecky,the use of [HISTORY],3/24/1998,1998,29th,125,Josef,,Skvorecky,Josef Skvorecky
+161,Panel: Using the Histories of Others,the use of [HISTORY],3/25/1998,1998,29th,22,Arnost,,Lustig,Arnost Lustig
+161,Panel: Using the Histories of Others,the use of [HISTORY],3/25/1998,1998,29th,125,Josef,,Skvorecky,Josef Skvorecky
+161,Panel: Using the Histories of Others,the use of [HISTORY],3/25/1998,1998,29th,203,Patricia,,Hampl,Patricia Hampl
+161,Panel: Using the Histories of Others,the use of [HISTORY],3/25/1998,1998,29th,206,Paulette,,Jiles,Paulette Jiles
+162,Reading: Patricia Hampl,the use of [HISTORY],3/25/1998,1998,29th,203,Patricia,,Hampl,Patricia Hampl
+163,Reading: Arnost Lustig,the use of [HISTORY],3/25/1998,1998,29th,22,Arnost,,Lustig,Arnost Lustig
+164,Panel: Burdens of American History,the use of [HISTORY],3/26/1998,1998,29th,118,John,,Hanson,John Hanson
+164,Panel: Burdens of American History,the use of [HISTORY],3/26/1998,1998,29th,203,Patricia,,Hampl,Patricia Hampl
+164,Panel: Burdens of American History,the use of [HISTORY],3/26/1998,1998,29th,206,Paulette,,Jiles,Paulette Jiles
+165,Reading: Paulette Jiles,the use of [HISTORY],3/26/1998,1998,29th,206,Paulette,,Jiles,Paulette Jiles
+166,Reading: Toi Derricotte,the use of [HISTORY],3/26/1998,1998,29th,273,Toi,,Derricotte,Toi Derricotte
+167,Panel: History and Genre,the use of [HISTORY],3/27/1998,1998,29th,25,August,,Wilson,August Wilson
+167,Panel: History and Genre,the use of [HISTORY],3/27/1998,1998,29th,118,John,,Hanson,John Hanson
+167,Panel: History and Genre,the use of [HISTORY],3/27/1998,1998,29th,259,Susan,,Yuzna,Susan Yuzna
+167,Panel: History and Genre,the use of [HISTORY],3/27/1998,1998,29th,273,Toi,,Derricotte,Toi Derricotte
+168,Reading: John Hanson,the use of [HISTORY],3/27/1998,1998,29th,118,John,,Hanson,John Hanson
+169,Reading: Annick Smith,Writing Nature: The Nature of Writing,3/18/1997,1997,28th,19,Annick,,Smith,Annick Smith
+170,Reading: Garrett Hongo,Writing Nature: The Nature of Writing,3/18/1997,1997,28th,82,Garrett,,Hongo,Garrett Hongo
+171,Panel: Nature and the North American West,Writing Nature: The Nature of Writing,3/19/1997,1997,28th,19,Annick,,Smith,Annick Smith
+171,Panel: Nature and the North American West,Writing Nature: The Nature of Writing,3/19/1997,1997,28th,82,Garrett,,Hongo,Garrett Hongo
+171,Panel: Nature and the North American West,Writing Nature: The Nature of Writing,3/19/1997,1997,28th,181,Meeka,,Walsh,Meeka Walsh
+172,Reading: Meeka Walsh,Writing Nature: The Nature of Writing,3/19/1997,1997,28th,181,Meeka,,Walsh,Meeka Walsh
+173,Reading: Bill McKibben,Writing Nature: The Nature of Writing,3/19/1997,1997,28th,31,Bill,,McKibben,Bill McKibben
+174,Panel: The End of Nature Debate,Writing Nature: The Nature of Writing,3/19/1997,1997,28th,19,Annick,,Smith,Annick Smith
+174,Panel: The End of Nature Debate,Writing Nature: The Nature of Writing,3/19/1997,1997,28th,31,Bill,,McKibben,Bill McKibben
+174,Panel: The End of Nature Debate,Writing Nature: The Nature of Writing,3/19/1997,1997,28th,82,Garrett,,Hongo,Garrett Hongo
+174,Panel: The End of Nature Debate,Writing Nature: The Nature of Writing,3/19/1997,1997,28th,181,Meeka,,Walsh,Meeka Walsh
+175,Reading: Linda Hogen,Writing Nature: The Nature of Writing,3/20/1997,1997,28th,153,Linda,,Hogen,Linda Hogen
+176,Reading: David Treuer,Writing Nature: The Nature of Writing,3/20/1997,1997,28th,55,David,,Treuer,David Treuer
+177,Panel: Writing Nature,Writing Nature: The Nature of Writing,3/20/1997,1997,28th,31,Bill,,McKibben,Bill McKibben
+177,Panel: Writing Nature,Writing Nature: The Nature of Writing,3/20/1997,1997,28th,55,David,,Treuer,David Treuer
+177,Panel: Writing Nature,Writing Nature: The Nature of Writing,3/20/1997,1997,28th,256,Susan,,Griffin,Susan Griffin
+178,Reading: Susan Griffin,Writing Nature: The Nature of Writing,3/21/1997,1997,28th,256,Susan,,Griffin,Susan Griffin
+179,Reading: Bill Morissey,Writing Nature: The Nature of Writing,3/21/1997,1997,28th,32,Bill,,Morissey,Bill Morissey
+180,Panel: The Nature of Writing,Writing Nature: The Nature of Writing,3/21/1997,1997,28th,32,Bill,,Morissey,Bill Morissey
+180,Panel: The Nature of Writing,Writing Nature: The Nature of Writing,3/21/1997,1997,28th,55,David,,Treuer,David Treuer
+180,Panel: The Nature of Writing,Writing Nature: The Nature of Writing,3/21/1997,1997,28th,153,Linda,,Hogen,Linda Hogen
+180,Panel: The Nature of Writing,Writing Nature: The Nature of Writing,3/21/1997,1997,28th,256,Susan,,Griffin,Susan Griffin
+181,Reading: Rosellen Brown,Living in America,4/9/1996,1996,27th,234,Rosellen,,Brown,Rosellen Brown
+182,Reading: Li-Young Lee,Living in America,4/10/1996,1996,27th,154,Li-Young,,Lee,Li-Young Lee
+183,Panel: Writing Lives,Living in America,4/10/1996,1996,27th,53,David,,Mura,David Mura
+183,Panel: Writing Lives,Living in America,4/10/1996,1996,27th,154,Li-Young,,Lee,Li-Young Lee
+183,Panel: Writing Lives,Living in America,4/10/1996,1996,27th,234,Rosellen,,Brown,Rosellen Brown
+184,Reading: David Mura,Living in America,4/10/1996,1996,27th,53,David,,Mura,David Mura
+185,Panel: People and Nature,Living in America,4/11/1996,1996,27th,205,Pattiann,,Rogers,Pattiann Rogers
+185,Panel: People and Nature,Living in America,4/11/1996,1996,27th,257,Susan,,Power,Susan Power
+186,Reading: Pattiann Rogers,Living in America,4/11/1996,1996,27th,205,Pattiann,,Rogers,Pattiann Rogers
+187,Reading: Susan Power,Living in America,4/11/1996,1996,27th,257,Susan,,Power,Susan Power
+188,Panel: Writing Your Place,Living in America,4/12/1996,1996,27th,122,Jon,,Hassler,Jon Hassler
+188,Panel: Writing Your Place,Living in America,4/12/1996,1996,27th,260,Sydney,,Lea,Sydney Lea
+189,Reading: Sydney Lea,Living in America,4/12/1996,1996,27th,260,Sydney,,Lea,Sydney Lea
+190,Reading: Jon Hassler,Living in America,4/12/1996,1996,27th,122,Jon,,Hassler,Jon Hassler
+191,Reading: Tim O'Brien,States of the Art,3/22/1995,1995,26th,270,Tim,,O’Brien,Tim O’Brien
+192,Reading: Bharati Mukherjee,States of the Art,3/23/1995,1995,26th,29,Bharati,,Mukherjee,Bharati Mukherjee
+193,Panel: States of the Art,States of the Art,3/23/1995,1995,26th,29,Bharati,,Mukherjee,Bharati Mukherjee
+193,Panel: States of the Art,States of the Art,3/23/1995,1995,26th,249,Sharon,,Olds,Sharon Olds
+193,Panel: States of the Art,States of the Art,3/23/1995,1995,26th,270,Tim,,O’Brien,Tim O’Brien
+194,Reading: Sharon Olds,States of the Art,3/23/1995,1995,26th,249,Sharon,,Olds,Sharon Olds
+195,Reading: Sherman Alexie,States of the Art,3/24/1995,1995,26th,250,Sherman,,Alexie,Sherman Alexie
+196,Reading: Marge Piercy,States of the Art,3/24/1995,1995,26th,167,Marge,,Piercy,Marge Piercy
+197,Reading: Yusef Komunyakaa,States of the Art,3/25/1995,1995,26th,290,Yusef,,Komunyakaa,Yusef Komunyakaa
+198,Panel,States of the Art,3/24/1995,1995,26th,87,Gordon,,"Henry, Jr.","Gordon Henry, Jr."
+198,Panel,States of the Art,3/24/1995,1995,26th,290,Yusef,,Komunyakaa,Yusef Komunyakaa
+200,Reading: John Stone,Homelands,4/6/1994,1994,25th,120,John,,Stone,John Stone
+201,Reading: Jervey Tervalon,Homelands,4/6/1994,1994,25th,111,Jervey,,Tervalon,Jervey Tervalon
+202,Panel,Homelands,4/7/1994,1994,25th,105,James,,Whitehead,James Whitehead
+202,Panel,Homelands,4/7/1994,1994,25th,111,Jervey,,Tervalon,Jervey Tervalon
+202,Panel,Homelands,4/7/1994,1994,25th,120,John,,Stone,John Stone
+202,Panel,Homelands,4/7/1994,1994,25th,241,Sandra,,Benitez,Sandra Benitez
+203,Reading: James Whitehead,Homelands,4/7/1994,1994,25th,105,James,,Whitehead,James Whitehead
+204,Reading: Sandra Benitez,Homelands,4/7/1994,1994,25th,241,Sandra,,Benitez,Sandra Benitez
+205,Panel,Homelands,4/8/1994,1994,25th,3,Adrian,,Louis,Adrian Louis
+205,Panel,Homelands,4/8/1994,1994,25th,123,Jonis,,Agee,Jonis Agee
+205,Panel,Homelands,4/8/1994,1994,25th,146,Larry,,Watson,Larry Watson
+206,Reading: Adrian Louis,Homelands,4/8/1994,1994,25th,3,Adrian,,Louis,Adrian Louis
+207,Reading: Jonis Agee,Homelands,4/8/1994,1994,25th,123,Jonis,,Agee,Jonis Agee
+208,Panel,Homelands,4/9/1994,1994,25th,105,James,,Whitehead,James Whitehead
+208,Panel,Homelands,4/9/1994,1994,25th,123,Jonis,,Agee,Jonis Agee
+208,Panel,Homelands,4/9/1994,1994,25th,146,Larry,,Watson,Larry Watson
+209,Reading: Larry Watson,Homelands,4/9/1994,1994,25th,146,Larry,,Watson,Larry Watson
+210,Panel,La Literatura: Contemporary Latino/Latina Writing,3/24/1993,1993,24th,67,Ed,,Vega,Ed Vega
+210,Panel,La Literatura: Contemporary Latino/Latina Writing,3/24/1993,1993,24th,77,Francisco,,Goldman,Francisco Goldman
+210,Panel,La Literatura: Contemporary Latino/Latina Writing,3/24/1993,1993,24th,86,Gloria,,Anzaldua,Gloria Anzaldua
+210,Panel,La Literatura: Contemporary Latino/Latina Writing,3/24/1993,1993,24th,191,Monica,,Bortero,Monica Bortero
+211,Reading: Gloria Anzaldua,La Literatura: Contemporary Latino/Latina Writing,3/24/1993,1993,24th,86,Gloria,,Anzaldua,Gloria Anzaldua
+212,Reading: Francisco Goldman,La Literatura: Contemporary Latino/Latina Writing,3/24/1993,1993,24th,77,Francisco,,Goldman,Francisco Goldman
+213,Panel: Presence of the Literary Past,La Literatura: Contemporary Latino/Latina Writing,3/23/1993,1993,24th,16,Ana,,Castillo,Ana Castillo
+213,Panel: Presence of the Literary Past,La Literatura: Contemporary Latino/Latina Writing,3/23/1993,1993,24th,67,Ed,,Vega,Ed Vega
+213,Panel: Presence of the Literary Past,La Literatura: Contemporary Latino/Latina Writing,3/23/1993,1993,24th,160,Luisa,,Valenzuela,Luisa Valenzuela
+213,Panel: Presence of the Literary Past,La Literatura: Contemporary Latino/Latina Writing,3/23/1993,1993,24th,175,Martin,,Espada,Martin Espada
+214,Reading: Ana Castillo,La Literatura: Contemporary Latino/Latina Writing,3/25/1993,1993,24th,16,Ana,,Castillo,Ana Castillo
+215,Reading: Ed Vega,La Literatura: Contemporary Latino/Latina Writing,3/25/1993,1993,24th,67,Ed,,Vega,Ed Vega
+216,Panel: The Geographies of Language,La Literatura: Contemporary Latino/Latina Writing,3/26/1993,1993,24th,16,Ana,,Castillo,Ana Castillo
+216,Panel: The Geographies of Language,La Literatura: Contemporary Latino/Latina Writing,3/26/1993,1993,24th,160,Luisa,,Valenzuela,Luisa Valenzuela
+216,Panel: The Geographies of Language,La Literatura: Contemporary Latino/Latina Writing,3/26/1993,1993,24th,175,Martin,,Espada,Martin Espada
+217,Reading: Martin Espada,La Literatura: Contemporary Latino/Latina Writing,3/26/1993,1993,24th,175,Martin,,Espada,Martin Espada
+218,Reading: Luisa Valenzuela,La Literatura: Contemporary Latino/Latina Writing,3/26/1993,1993,24th,160,Luisa,,Valenzuela,Luisa Valenzuela
+219,Panel,A Festival of Publishers and Writers,3/17/1992,1992,23rd,54,David,,Pichaske,David Pichaske
+219,Panel,A Festival of Publishers and Writers,3/17/1992,1992,23rd,152,Linda,,Hasselstrom,Linda Hasselstrom
+219,Panel,A Festival of Publishers and Writers,3/17/1992,1992,23rd,174,Mark,,Vinz,Mark Vinz
+219,Panel,A Festival of Publishers and Writers,3/17/1992,1992,23rd,268,Thom,,Tammaro,Thom Tammaro
+220,Reading: Regional Authors,A Festival of Publishers and Writers,3/17/1992,1992,23rd,54,David,,Pichaske,David Pichaske
+220,Reading: Regional Authors,A Festival of Publishers and Writers,3/17/1992,1992,23rd,174,Mark,,Vinz,Mark Vinz
+220,Reading: Regional Authors,A Festival of Publishers and Writers,3/17/1992,1992,23rd,268,Thom,,Tammaro,Thom Tammaro
+221,Reading: Linda Hasselstrom,A Festival of Publishers and Writers,3/17/1992,1992,23rd,152,Linda,,Hasselstrom,Linda Hasselstrom
+222,Panel,A Festival of Publishers and Writers,3/18/1992,1992,23rd,11,Allan,,Kornblum,Allan Kornblum
+222,Panel,A Festival of Publishers and Writers,3/18/1992,1992,23rd,72,Emilie,,Buchwald,Emilie Buchwald
+222,Panel,A Festival of Publishers and Writers,3/18/1992,1992,23rd,156,Lon,,Otto,Lon Otto
+222,Panel,A Festival of Publishers and Writers,3/18/1992,1992,23rd,178,Maura,,Stanton,Maura Stanton
+223,Reading: Lon Otto,A Festival of Publishers and Writers,3/18/1992,1992,23rd,156,Lon,,Otto,Lon Otto
+224,Reading: Maura Stanton,A Festival of Publishers and Writers,3/18/1992,1992,23rd,178,Maura,,Stanton,Maura Stanton
+225,Panel,A Festival of Publishers and Writers,3/19/1992,1992,23rd,61,Diane,,Glancy,Diane Glancy
+225,Panel,A Festival of Publishers and Writers,3/19/1992,1992,23rd,113,Jim,,Perlman,Jim Perlman
+225,Panel,A Festival of Publishers and Writers,3/19/1992,1992,23rd,261,Ted,,Kooser,Ted Kooser
+225,Panel,A Festival of Publishers and Writers,3/19/1992,1992,23rd,286,William,,Kloefkorn,William Kloefkorn
+226,Reading: Diane Glancy,A Festival of Publishers and Writers,3/19/1992,1992,23rd,61,Diane,,Glancy,Diane Glancy
+227,Reading: William Kloefkorn,A Festival of Publishers and Writers,3/19/1992,1992,23rd,286,William,,Kloefkorn,William Kloefkorn
+228,Panel,A Festival of Publishers and Writers,3/20/1992,1992,23rd,38,Carol,,Bly,Carol Bly
+228,Panel,A Festival of Publishers and Writers,3/20/1992,1992,23rd,261,Ted,,Kooser,Ted Kooser
+228,Panel,A Festival of Publishers and Writers,3/20/1992,1992,23rd,286,William,,Kloefkorn,William Kloefkorn
+229,Reading: Ted Kooser,A Festival of Publishers and Writers,3/20/1992,1992,23rd,261,Ted,,Kooser,Ted Kooser
+230,Reading: Carol Bly,A Festival of Publishers and Writers,3/20/1992,1992,23rd,38,Carol,,Bly,Carol Bly
+231,Panel,The Literatures of Canada,3/19/1991,1991,22nd,56,David,,Williamson,David Williamson
+231,Panel,The Literatures of Canada,3/19/1991,1991,22nd,62,Di,,Brandt,Di Brandt
+231,Panel,The Literatures of Canada,3/19/1991,1991,22nd,279,Ven,,Begamudre,Ven Begamudre
+232,Reading: Ven Begamudre,The Literatures of Canada,3/19/1991,1991,22nd,279,Ven,,Begamudre,Ven Begamudre
+233,Reading: David Williamson and Di Brandt,The Literatures of Canada,3/19/1991,1991,22nd,56,David,,Williamson,David Williamson
+233,Reading: David Williamson and Di Brandt,The Literatures of Canada,3/19/1991,1991,22nd,62,Di,,Brandt,Di Brandt
+234,Panel,The Literatures of Canada,3/20/1991,1991,22nd,40,Carol,,Shields,Carol Shields
+234,Panel,The Literatures of Canada,3/20/1991,1991,22nd,63,Dorothy,,Livesay,Dorothy Livesay
+234,Panel,The Literatures of Canada,3/20/1991,1991,22nd,162,Madeline,,Gagnon,Madeline Gagnon
+234,Panel,The Literatures of Canada,3/20/1991,1991,22nd,186,Michael,,Ondaatje,Michael Ondaatje
+235,Reading: Carol Shields,The Literatures of Canada,3/20/1991,1991,22nd,40,Carol,,Shields,Carol Shields
+236,Reading: Michael Ondaatje,The Literatures of Canada,3/20/1991,1991,22nd,186,Michael,,Ondaatje,Michael Ondaatje
+237,Panel: Writing in Time of War,The Literatures of Canada,3/21/1991,1991,22nd,40,Carol,,Shields,Carol Shields
+237,Panel: Writing in Time of War,The Literatures of Canada,3/21/1991,1991,22nd,52,David,,Arnason,David Arnason
+237,Panel: Writing in Time of War,The Literatures of Canada,3/21/1991,1991,22nd,144,Kristjana,,Gunnars,Kristjana Gunnars
+237,Panel: Writing in Time of War,The Literatures of Canada,3/21/1991,1991,22nd,231,Roch,,Carrier,Roch Carrier
+238,Reading: Dorothy Livesay and Madeline Gagnon,The Literatures of Canada,3/21/1991,1991,22nd,63,Dorothy,,Livesay,Dorothy Livesay
+238,Reading: Dorothy Livesay and Madeline Gagnon,The Literatures of Canada,3/21/1991,1991,22nd,162,Madeline,,Gagnon,Madeline Gagnon
+239,Reading: Roch Carrier,The Literatures of Canada,3/22/1991,1991,22nd,231,Roch,,Carrier,Roch Carrier
+240,Reading: David Arnason and Kristjana Gunnars,The Literatures of Canada,3/22/1991,1991,22nd,52,David,,Arnason,David Arnason
+240,Reading: David Arnason and Kristjana Gunnars,The Literatures of Canada,3/22/1991,1991,22nd,144,Kristjana,,Gunnars,Kristjana Gunnars
+241,Reading: William Kinsella,The Literatures of Canada,3/22/1991,1991,22nd,285,William,,Kinsella,William Kinsella
+242,Panel: Leaving Home,The Literature of Immigration,3/20/1990,1990,21st,102,James,J.,McAuley,James J. McAuley
+242,Panel: Leaving Home,The Literature of Immigration,3/20/1990,1990,21st,157,Lore,,Segal,Lore Segal
+242,Panel: Leaving Home,The Literature of Immigration,3/20/1990,1990,21st,251,Solveig,,Zempel,Solveig Zempel
+243,Reading: Lore Segal,The Literature of Immigration,3/20/1990,1990,21st,157,Lore,,Segal,Lore Segal
+244,Panel: The Stranger in a Strange Land,The Literature of Immigration,3/21/1990,1990,21st,102,James,J.,McAuley,James J. McAuley
+244,Panel: The Stranger in a Strange Land,The Literature of Immigration,3/21/1990,1990,21st,157,Lore,,Segal,Lore Segal
+244,Panel: The Stranger in a Strange Land,The Literature of Immigration,3/21/1990,1990,21st,233,Ron,,Vossler,Ron Vossler
+245,Reading: James J. McAuley,The Literature of Immigration,3/21/1990,1990,21st,102,James,J.,McAuley,James J. McAuley
+246,Reading: Ron Vossler,The Literature of Immigration,3/21/1990,1990,21st,233,Ron,,Vossler,Ron Vossler
+247,Panel: Exile,The Literature of Immigration,3/23/1990,1990,21st,134,Karen,,Karbo,Karen Karbo
+247,Panel: Exile,The Literature of Immigration,3/23/1990,1990,21st,217,Reginald,,McKnight,Reginald McKnight
+247,Panel: Exile,The Literature of Immigration,3/23/1990,1990,21st,289,Will,,Weaver,Will Weaver
+248,Reading: Reginald McKnight,The Literature of Immigration,3/22/1990,1990,21st,217,Reginald,,McKnight,Reginald McKnight
+249,Panel: A New Land,The Literature of Immigration,3/22/1990,1990,21st,134,Karen,,Karbo,Karen Karbo
+249,Panel: A New Land,The Literature of Immigration,3/22/1990,1990,21st,217,Reginald,,McKnight,Reginald McKnight
+249,Panel: A New Land,The Literature of Immigration,3/22/1990,1990,21st,289,Will,,Weaver,Will Weaver
+250,Reading: Karen Karbo,The Literature of Immigration,3/23/1990,1990,21st,134,Karen,,Karbo,Karen Karbo
+251,Reading: Will Weaver,The Literature of Immigration,3/23/1990,1990,21st,289,Will,,Weaver,Will Weaver
+252,Panel: Landscapes,Circle of Many Colors,4/3/1989,1989,20th,91,Gretel,,Ehrlich,Gretel Ehrlich
+252,Panel: Landscapes,Circle of Many Colors,4/3/1989,1989,20th,218,Richard,,Ford,Richard Ford
+252,Panel: Landscapes,Circle of Many Colors,4/3/1989,1989,20th,272,Tobias,,Wolff,Tobias Wolff
+253,Reading: Tobias Wolff,Circle of Many Colors,4/3/1989,1989,20th,272,Tobias,,Wolff,Tobias Wolff
+254,"Panel: Sacred Ground, Sacred Words",Circle of Many Colors,4/4/1989,1989,20th,91,Gretel,,Ehrlich,Gretel Ehrlich
+254,"Panel: Sacred Ground, Sacred Words",Circle of Many Colors,4/4/1989,1989,20th,218,Richard,,Ford,Richard Ford
+254,"Panel: Sacred Ground, Sacred Words",Circle of Many Colors,4/4/1989,1989,20th,272,Tobias,,Wolff,Tobias Wolff
+255,Reading: Gretel Ehrlich,Circle of Many Colors,4/4/1989,1989,20th,91,Gretel,,Ehrlich,Gretel Ehrlich
+256,Reading: Richard Ford,Circle of Many Colors,4/4/1989,1989,20th,218,Richard,,Ford,Richard Ford
+257,Reading: David Solheim,Circle of Many Colors,4/5/1989,1989,20th,51,Dave,,Solheim,Dave Solheim
+258,Reading: N. Scott Momaday,Circle of Many Colors,4/5/1989,1989,20th,198,N.,Scott,Momaday,N. Scott Momaday
+259,Reading: William Least Heat Moon,Circle of Many Colors,4/6/1989,1989,20th,287,William,,Least Heat Moon,William Least Heat Moon
+261,"Panel: Sacred Ground, Sacred Words",Circle of Many Colors,4/6/1989,1989,20th,198,N.,Scott,Momaday,N. Scott Momaday
+261,"Panel: Sacred Ground, Sacred Words",Circle of Many Colors,4/6/1989,1989,20th,287,William,,Least Heat Moon,William Least Heat Moon
+262,Panel,Circle of Many Colors,4/7/1989,1989,20th,44,Charlene,,Blue Horse,Charlene Blue Horse
+262,Panel,Circle of Many Colors,4/7/1989,1989,20th,151,Leslie,,Silko,Leslie Silko
+262,Panel,Circle of Many Colors,4/7/1989,1989,20th,198,N.,Scott,Momaday,N. Scott Momaday
+262,Panel,Circle of Many Colors,4/7/1989,1989,20th,287,William,,Least Heat Moon,William Least Heat Moon
+263,"Panel: Sacred Ground, Sacred Words",Circle of Many Colors,4/7/1989,1989,20th,44,Charlene,,Blue Horse,Charlene Blue Horse
+263,"Panel: Sacred Ground, Sacred Words",Circle of Many Colors,4/7/1989,1989,20th,151,Leslie,,Silko,Leslie Silko
+263,"Panel: Sacred Ground, Sacred Words",Circle of Many Colors,4/7/1989,1989,20th,198,N.,Scott,Momaday,N. Scott Momaday
+263,"Panel: Sacred Ground, Sacred Words",Circle of Many Colors,4/7/1989,1989,20th,287,William,,Least Heat Moon,William Least Heat Moon
+264,Reading: Ken Edwards,Circle of Many Colors,4/7/1989,1989,20th,139,Ken,,Edwards,Ken Edwards
+265,Reading: Leslie Marmon Silko,Circle of Many Colors,4/7/1989,1989,20th,151,Leslie,,Silko,Leslie Silko
+266,Panel: Daughters in Rebellion,Parent & Child,3/22/1988,1988,19th,158,Louise,,Erdrich,Louise Erdrich
+266,Panel: Daughters in Rebellion,Parent & Child,3/22/1988,1988,19th,183,Michael,,Dorris,Michael Dorris
+266,Panel: Daughters in Rebellion,Parent & Child,3/22/1988,1988,19th,190,Mona,,Simpson,Mona Simpson
+267,Reading: Louise Erdrich,Parent & Child,3/22/1988,1988,19th,158,Louise,,Erdrich,Louise Erdrich
+268,Panel: Single Moms,Parent & Child,3/23/1988,1988,19th,158,Louise,,Erdrich,Louise Erdrich
+268,Panel: Single Moms,Parent & Child,3/23/1988,1988,19th,183,Michael,,Dorris,Michael Dorris
+268,Panel: Single Moms,Parent & Child,3/23/1988,1988,19th,190,Mona,,Simpson,Mona Simpson
+269,Reading: Michael Dorris,Parent & Child,3/23/1988,1988,19th,183,Michael,,Dorris,Michael Dorris
+270,Reading: Mona Simpson,Parent & Child,3/23/1988,1988,19th,190,Mona,,Simpson,Mona Simpson
+271,Panel: Fathers and Daughters,Parent & Child,3/24/1988,1988,19th,2,Adam,,Hochschild,Adam Hochschild
+271,Panel: Fathers and Daughters,Parent & Child,3/24/1988,1988,19th,204,Patrick,,Hemingway,Patrick Hemingway
+271,Panel: Fathers and Daughters,Parent & Child,3/24/1988,1988,19th,282,W.,D.,Snodgrass,W. D. Snodgrass
+272,Reading: Adam Hochschild,Parent & Child,3/24/1988,1988,19th,2,Adam,,Hochschild,Adam Hochschild
+273,Panel: Fathers and Sons,Parent & Child,3/25/1988,1988,19th,2,Adam,,Hochschild,Adam Hochschild
+273,Panel: Fathers and Sons,Parent & Child,3/25/1988,1988,19th,204,Patrick,,Hemingway,Patrick Hemingway
+273,Panel: Fathers and Sons,Parent & Child,3/25/1988,1988,19th,282,W.,D.,Snodgrass,W. D. Snodgrass
+274,Reading: Patrick Hemingway,Parent & Child,3/25/1988,1988,19th,204,Patrick,,Hemingway,Patrick Hemingway
+275,Reading: W. D. Snodgrass,Parent & Child,3/25/1988,1988,19th,282,W.,D.,Snodgrass,W. D. Snodgrass
+276,Panel,Writers of the Purple Sage,3/18/1987,1987,18th,69,Elizabeth,,Tallent,Elizabeth Tallent
+276,Panel,Writers of the Purple Sage,3/18/1987,1987,18th,145,Larry,,McMurtry,Larry McMurtry
+277,Reading: Elizabeth Tallent,Writers of the Purple Sage,3/17/1987,1987,18th,69,Elizabeth,,Tallent,Elizabeth Tallent
+279,Reading: Larry McMurtry,Writers of the Purple Sage,3/17/1987,1987,18th,145,Larry,,McMurtry,Larry McMurtry
+280,Panel: Fences and Corrals,Writers of the Purple Sage,3/17/1987,1987,18th,69,Elizabeth,,Tallent,Elizabeth Tallent
+280,Panel: Fences and Corrals,Writers of the Purple Sage,3/17/1987,1987,18th,207,Paul,,St. Pierre,Paul St. Pierre
+280,Panel: Fences and Corrals,Writers of the Purple Sage,3/17/1987,1987,18th,226,Robert,,Kammen,Robert Kammen
+281,Reading: Robert Kammen,Writers of the Purple Sage,3/18/1987,1987,18th,226,Robert,,Kammen,Robert Kammen
+282,Reading: Paul St. Pierre,Writers of the Purple Sage,3/18/1987,1987,18th,207,Paul,,St. Pierre,Paul St. Pierre
+283,Reading: Joy Harjo,Writers of the Purple Sage,3/19/1987,1987,18th,128,Joy,,Harjo,Joy Harjo
+284,Panel,Writers of the Purple Sage,3/19/1987,1987,18th,104,James,,Welch,James Welch
+284,Panel,Writers of the Purple Sage,3/19/1987,1987,18th,128,Joy,,Harjo,Joy Harjo
+284,Panel,Writers of the Purple Sage,3/19/1987,1987,18th,207,Paul,,St. Pierre,Paul St. Pierre
+284,Panel,Writers of the Purple Sage,3/19/1987,1987,18th,213,Ralph,,Beer,Ralph Beer
+286,Panel,Writers of the Purple Sage,3/20/1987,1987,18th,104,James,,Welch,James Welch
+286,Panel,Writers of the Purple Sage,3/20/1987,1987,18th,128,Joy,,Harjo,Joy Harjo
+286,Panel,Writers of the Purple Sage,3/20/1987,1987,18th,213,Ralph,,Beer,Ralph Beer
+287,Reading: James Welch,Writers of the Purple Sage,3/20/1987,1987,18th,104,James,,Welch,James Welch
+288,"Panel: Clovers, Bees, and Reveries",To Make a Prairie,3/18/1986,1986,17th,70,Ellen,,Gilchrist,Ellen Gilchrist
+288,"Panel: Clovers, Bees, and Reveries",To Make a Prairie,3/18/1986,1986,17th,180,Maxine,,Kumin,Maxine Kumin
+288,"Panel: Clovers, Bees, and Reveries",To Make a Prairie,3/18/1986,1986,17th,216,Rebecca,,Hill,Rebecca Hill
+289,Reading: Ellen Gilchrist,To Make a Prairie,3/18/1986,1986,17th,70,Ellen,,Gilchrist,Ellen Gilchrist
+290,Panel: Prairies,To Make a Prairie,3/19/1986,1986,17th,70,Ellen,,Gilchrist,Ellen Gilchrist
+290,Panel: Prairies,To Make a Prairie,3/19/1986,1986,17th,180,Maxine,,Kumin,Maxine Kumin
+290,Panel: Prairies,To Make a Prairie,3/19/1986,1986,17th,216,Rebecca,,Hill,Rebecca Hill
+291,Reading: Rebecca Hill,To Make a Prairie,3/19/1986,1986,17th,216,Rebecca,,Hill,Rebecca Hill
+292,Reading: Maxine Kumin,To Make a Prairie,3/19/1986,1986,17th,180,Maxine,,Kumin,Maxine Kumin
+293,Panel: Real Toads,To Make a Prairie,3/20/1986,1986,17th,109,Jay,,McInerney,Jay McInerney
+293,Panel: Real Toads,To Make a Prairie,3/20/1986,1986,17th,121,John,,Yount,John Yount
+293,Panel: Real Toads,To Make a Prairie,3/20/1986,1986,17th,229,Robert,,Ward,Robert Ward
+294,Reading: Jay McInerney,To Make a Prairie,3/20/1986,1986,17th,109,Jay,,McInerney,Jay McInerney
+295,Reading: John Yount,To Make a Prairie,3/20/1986,1986,17th,121,John,,Yount,John Yount
+296,Panel: Imaginary Gardens,To Make a Prairie,3/21/1986,1986,17th,109,Jay,,McInerney,Jay McInerney
+296,Panel: Imaginary Gardens,To Make a Prairie,3/21/1986,1986,17th,121,John,,Yount,John Yount
+296,Panel: Imaginary Gardens,To Make a Prairie,3/21/1986,1986,17th,229,Robert,,Ward,Robert Ward
+297,Reading: Robert Ward,To Make a Prairie,3/21/1986,1986,17th,229,Robert,,Ward,Robert Ward
+298,Reading: Raymond Carver,To Make a Prairie,3/21/1986,1986,17th,215,Raymond,,Carver,Raymond Carver
+299,Reading: Ann Beattie,Narratives,3/18/1985,1985,16th,17,Ann,,Beattie,Ann Beattie
+300,Panel: Place in the Narrative,Narratives,3/19/1985,1985,16th,27,Barry,,Hannah,Barry Hannah
+300,Panel: Place in the Narrative,Narratives,3/19/1985,1985,16th,242,Sandra,,Birdsell,Sandra Birdsell
+300,Panel: Place in the Narrative,Narratives,3/19/1985,1985,16th,267,Thomas,,McGrath,Thomas McGrath
+301,Reading: Sandra Birdsell,Narratives,3/19/1985,1985,16th,242,Sandra,,Birdsell,Sandra Birdsell
+302,Reading: Thomas McGrath,Narratives,3/19/1985,1985,16th,267,Thomas,,McGrath,Thomas McGrath
+303,Panel: The Shattered Mirror: Narratives as the Fragments of the Experience,Narratives,3/20/1985,1985,16th,15,Amy,,Clampitt,Amy Clampitt
+303,Panel: The Shattered Mirror: Narratives as the Fragments of the Experience,Narratives,3/20/1985,1985,16th,27,Barry,,Hannah,Barry Hannah
+303,Panel: The Shattered Mirror: Narratives as the Fragments of the Experience,Narratives,3/20/1985,1985,16th,242,Sandra,,Birdsell,Sandra Birdsell
+303,Panel: The Shattered Mirror: Narratives as the Fragments of the Experience,Narratives,3/20/1985,1985,16th,267,Thomas,,McGrath,Thomas McGrath
+304,Reading: Amy Clampitt,Narratives,3/20/1985,1985,16th,15,Amy,,Clampitt,Amy Clampitt
+305,Reading: Barry Hannah,Narratives,3/20/1985,1985,16th,27,Barry,,Hannah,Barry Hannah
+306,Panel: Narratives,Narratives,3/21/1985,1985,16th,7,Alex,,Haley,Alex Haley
+306,Panel: Narratives,Narratives,3/21/1985,1985,16th,15,Amy,,Clampitt,Amy Clampitt
+306,Panel: Narratives,Narratives,3/21/1985,1985,16th,124,Jorie,,Graham,Jorie Graham
+306,Panel: Narratives,Narratives,3/21/1985,1985,16th,197,Norman,,Mailer,Norman Mailer
+307,Reading: Alex Haley,Narratives,3/21/1985,1985,16th,7,Alex,,Haley,Alex Haley
+309,Reading: Norman Mailer,Narratives,3/21/1985,1985,16th,197,Norman,,Mailer,Norman Mailer
+311,Panel: Narrative as the Presentation of Voice,Narratives,3/22/1985,1985,16th,7,Alex,,Haley,Alex Haley
+311,Panel: Narrative as the Presentation of Voice,Narratives,3/22/1985,1985,16th,124,Jorie,,Graham,Jorie Graham
+313,Reading: Jorie Graham,Narratives,3/22/1985,1985,16th,124,Jorie,,Graham,Jorie Graham
+314,Reading: Alex Haley,Narratives,3/22/1985,1985,16th,7,Alex,,Haley,Alex Haley
+315,Panel: Big Brother and Your Imagination,Nineteen Eighty Four,3/20/1984,1984,15th,94,Harlan,,Ellison,Harlan Ellison
+315,Panel: Big Brother and Your Imagination,Nineteen Eighty Four,3/20/1984,1984,15th,160,Luisa,,Valenzuela,Luisa Valenzuela
+315,Panel: Big Brother and Your Imagination,Nineteen Eighty Four,3/20/1984,1984,15th,214,Ray,,Bradbury,Ray Bradbury
+315,Panel: Big Brother and Your Imagination,Nineteen Eighty Four,3/20/1984,1984,15th,265,Theodore,,Sturgeon,Theodore Sturgeon
+316,Reading: Jayne Sturgeon and Theodore Sturgeon,Nineteen Eighty Four,3/21/1984,1984,15th,110,Jayne,,Sturgeon,Jayne Sturgeon
+316,Reading: Jayne Sturgeon and Theodore Sturgeon,Nineteen Eighty Four,3/21/1984,1984,15th,265,Theodore,,Sturgeon,Theodore Sturgeon
+317,Panel: Extraterrestrial Sex,Nineteen Eighty Four,3/21/1984,1984,15th,94,Harlan,,Ellison,Harlan Ellison
+317,Panel: Extraterrestrial Sex,Nineteen Eighty Four,3/21/1984,1984,15th,110,Jayne,,Sturgeon,Jayne Sturgeon
+317,Panel: Extraterrestrial Sex,Nineteen Eighty Four,3/21/1984,1984,15th,160,Luisa,,Valenzuela,Luisa Valenzuela
+317,Panel: Extraterrestrial Sex,Nineteen Eighty Four,3/21/1984,1984,15th,265,Theodore,,Sturgeon,Theodore Sturgeon
+318,Reading: Luisa Valenzuela,Nineteen Eighty Four,3/21/1984,1984,15th,160,Luisa,,Valenzuela,Luisa Valenzuela
+319,Reading: Harlan Ellison,Nineteen Eighty Four,3/21/1984,1984,15th,94,Harlan,,Ellison,Harlan Ellison
+320,Panel: Inner Space/Outer Space,Nineteen Eighty Four,3/22/1984,1984,15th,115,Joe,,Haldeman,Joe Haldeman
+320,Panel: Inner Space/Outer Space,Nineteen Eighty Four,3/22/1984,1984,15th,228,Robert,,Silverberg,Robert Silverberg
+320,Panel: Inner Space/Outer Space,Nineteen Eighty Four,3/22/1984,1984,15th,232,Roger,,Zelazny,Roger Zelazny
+321,Reading: Robert Silverberg,Nineteen Eighty Four,3/22/1984,1984,15th,228,Robert,,Silverberg,Robert Silverberg
+322,Panel: Science Fiction as a Prediction,Nineteen Eighty Four,3/23/1984,1984,15th,115,Joe,,Haldeman,Joe Haldeman
+322,Panel: Science Fiction as a Prediction,Nineteen Eighty Four,3/23/1984,1984,15th,228,Robert,,Silverberg,Robert Silverberg
+322,Panel: Science Fiction as a Prediction,Nineteen Eighty Four,3/23/1984,1984,15th,232,Roger,,Zelazny,Roger Zelazny
+323,Reading: Joe Haldeman,Nineteen Eighty Four,3/23/1984,1984,15th,115,Joe,,Haldeman,Joe Haldeman
+324,Reading: Roger Zelazny,Nineteen Eighty Four,3/23/1984,1984,15th,232,Roger,,Zelazny,Roger Zelazny
+325,Panel: Distant Homelands,The Centennial Year,3/22/1983,1983,14th,41,Carolyn,,Forché,Carolyn Forché
+325,Panel: Distant Homelands,The Centennial Year,3/22/1983,1983,14th,50,Czeslaw,,Milosz,Czeslaw Milosz
+325,Panel: Distant Homelands,The Centennial Year,3/22/1983,1983,14th,126,Joseph,,Brodsky,Joseph Brodsky
+326,Reading: Joseph Brodsky,The Centennial Year,3/22/1983,1983,14th,126,Joseph,,Brodsky,Joseph Brodsky
+327,Panel: Politics in Poetry,The Centennial Year,3/23/1983,1983,14th,41,Carolyn,,Forché,Carolyn Forché
+327,Panel: Politics in Poetry,The Centennial Year,3/23/1983,1983,14th,50,Czeslaw,,Milosz,Czeslaw Milosz
+327,Panel: Politics in Poetry,The Centennial Year,3/23/1983,1983,14th,126,Joseph,,Brodsky,Joseph Brodsky
+328,Reading: Carolyn Forché,The Centennial Year,3/23/1983,1983,14th,41,Carolyn,,Forché,Carolyn Forché
+329,Reading: Czeslaw Milosz,The Centennial Year,3/23/1983,1983,14th,50,Czeslaw,,Milosz,Czeslaw Milosz
+330,Panel: Homelands and Short Story,The Centennial Year,3/24/1983,1983,14th,34,Bobbie,Ann,Mason,Bobbie Ann Mason
+330,Panel: Homelands and Short Story,The Centennial Year,3/24/1983,1983,14th,99,James,Alan,McPherson,James Alan McPherson
+331,Reading: James Alan McPherson,The Centennial Year,3/24/1983,1983,14th,99,James,Alan,McPherson,James Alan McPherson
+332,Reading: Bobbie Ann Mason,The Centennial Year,3/24/1983,1983,14th,34,Bobbie,Ann,Mason,Bobbie Ann Mason
+333,Panel: Poetry and 100 Years,The Centennial Year,3/25/1983,1983,14th,103,James,,Merrill,James Merrill
+333,Panel: Poetry and 100 Years,The Centennial Year,3/25/1983,1983,14th,219,Richard,,Howard,Richard Howard
+334,Reading: Richard Howard,The Centennial Year,3/25/1983,1983,14th,219,Richard,,Howard,Richard Howard
+335,Reading: James Merrill,The Centennial Year,3/25/1983,1983,14th,103,James,,Merrill,James Merrill
+336,Reading: Alain Robbe-Grillet,International Writers,3/22/1982,1982,13th,4,Alain,,Robbe-Grillet,Alain Robbe-Grillet
+337,Panel: Reality versus Realism,International Writers,3/23/1982,1982,13th,4,Alain,,Robbe-Grillet,Alain Robbe-Grillet
+337,Panel: Reality versus Realism,International Writers,3/23/1982,1982,13th,258,Susan,,Sontag,Susan Sontag
+338,Reading: Susan Sontag,International Writers,3/23/1982,1982,13th,258,Susan,,Sontag,Susan Sontag
+339,Panel: Cultures in Translations,International Writers,3/24/1982,1982,13th,59,Derek,,Walcott,Derek Walcott
+339,Panel: Cultures in Translations,International Writers,3/24/1982,1982,13th,258,Susan,,Sontag,Susan Sontag
+340,Reading: Derek Walcott,International Writers,3/24/1982,1982,13th,59,Derek,,Walcott,Derek Walcott
+341,Panel: Writers in Exile,International Writers,3/25/1982,1982,13th,24,Arturo,,Vivante,Arturo Vivante
+341,Panel: Writers in Exile,International Writers,3/25/1982,1982,13th,59,Derek,,Walcott,Derek Walcott
+342,Reading: Arturo Vivante,International Writers,3/25/1982,1982,13th,24,Arturo,,Vivante,Arturo Vivante
+343,Panel: Homeland as Metaphor,International Writers,3/26/1982,1982,13th,24,Arturo,,Vivante,Arturo Vivante
+343,Panel: Homeland as Metaphor,International Writers,3/26/1982,1982,13th,267,Thomas,,McGrath,Thomas McGrath
+344,Reading: Ellen Gilchrist,International Writers,3/26/1982,1982,13th,70,Ellen,,Gilchrist,Ellen Gilchrist
+345,Panel: Where is that Voice Coming From: Part I,Voices,3/17/1981,1981,12th,58,Denise,,Levertov,Denise Levertov
+345,Panel: Where is that Voice Coming From: Part I,Voices,3/17/1981,1981,12th,225,Robert,,Creeley,Robert Creeley
+346,Reading: Robert Creeley,Voices,3/17/1981,1981,12th,225,Robert,,Creeley,Robert Creeley
+347,Panel: Poetic Voices Lyric and Dramatic: Part I,Voices,3/18/1981,1981,12th,58,Denise,,Levertov,Denise Levertov
+347,Panel: Poetic Voices Lyric and Dramatic: Part I,Voices,3/18/1981,1981,12th,73,Esther,,Broner,Esther Broner
+347,Panel: Poetic Voices Lyric and Dramatic: Part I,Voices,3/18/1981,1981,12th,74,Etheridge,,Knight,Etheridge Knight
+347,Panel: Poetic Voices Lyric and Dramatic: Part I,Voices,3/18/1981,1981,12th,225,Robert,,Creeley,Robert Creeley
+348,Reading: Etheridge Knight,Voices,3/18/1981,1981,12th,74,Etheridge,,Knight,Etheridge Knight
+349,Reading: Denise Levertov,Voices,3/18/1981,1981,12th,58,Denise,,Levertov,Denise Levertov
+350,Panel: Where is that Voice Coming From: Part II,Voices,3/19/1981,1981,12th,73,Esther,,Broner,Esther Broner
+350,Panel: Where is that Voice Coming From: Part II,Voices,3/19/1981,1981,12th,199,Ntozake,,Shange,Ntozake Shange
+350,Panel: Where is that Voice Coming From: Part II,Voices,3/19/1981,1981,12th,221,Richard,,Wilbur,Richard Wilbur
+351,Reading: Esther Broner,Voices,3/19/1981,1981,12th,73,Esther,,Broner,Esther Broner
+352,Reading: Richard Wilbur,Voices,3/19/1981,1981,12th,221,Richard,,Wilbur,Richard Wilbur
+353,Panel: Poetic Voices Lyric and Dramatic: Part II,Voices,3/20/1981,1981,12th,199,Ntozake,,Shange,Ntozake Shange
+353,Panel: Poetic Voices Lyric and Dramatic: Part II,Voices,3/20/1981,1981,12th,221,Richard,,Wilbur,Richard Wilbur
+354,Reading: Ntozake Shange,Voices,3/20/1981,1981,12th,199,Ntozake,,Shange,Ntozake Shange
+355,Performance of Epipheries,The Storytellers,3/17/1980,1980,11th,220,Richard,,Kostelanetz,Richard Kostelanetz
+356,Panel: Beginnings,The Storytellers,3/18/1980,1980,11th,132,June,,Jordan,June Jordan
+356,Panel: Beginnings,The Storytellers,3/18/1980,1980,11th,151,Leslie,,Silko,Leslie Silko
+356,Panel: Beginnings,The Storytellers,3/18/1980,1980,11th,220,Richard,,Kostelanetz,Richard Kostelanetz
+357,Reading: June Jordan,The Storytellers,3/18/1980,1980,11th,132,June,,Jordan,June Jordan
+358,Panel: Directions,The Storytellers,3/19/1980,1980,11th,100,James,,Crumley,James Crumley
+358,Panel: Directions,The Storytellers,3/19/1980,1980,11th,132,June,,Jordan,June Jordan
+358,Panel: Directions,The Storytellers,3/19/1980,1980,11th,151,Leslie,,Silko,Leslie Silko
+359,Reading: Leslie Silko,The Storytellers,3/19/1980,1980,11th,151,Leslie,,Silko,Leslie Silko
+360,Reading: James Crumley,The Storytellers,3/19/1980,1980,11th,100,James,,Crumley,James Crumley
+361,Panel: Oral Traditions,The Storytellers,3/20/1980,1980,11th,95,Harry,,Crews,Harry Crews
+361,Panel: Oral Traditions,The Storytellers,3/20/1980,1980,11th,100,James,,Crumley,James Crumley
+361,Panel: Oral Traditions,The Storytellers,3/20/1980,1980,11th,101,James,,Dickey,James Dickey
+362,Reading: Harry Crews,The Storytellers,3/20/1980,1980,11th,95,Harry,,Crews,Harry Crews
+363,Panel: Once Upon a Time,The Storytellers,3/21/1980,1980,11th,95,Harry,,Crews,Harry Crews
+363,Panel: Once Upon a Time,The Storytellers,3/21/1980,1980,11th,101,James,,Dickey,James Dickey
+363,Panel: Once Upon a Time,The Storytellers,3/21/1980,1980,11th,247,Selo,,Black Crow,Selo Black Crow
+364,Reading: James Dickey,The Storytellers,3/21/1980,1980,11th,101,James,,Dickey,James Dickey
+365,Reading: N. Scott Momaday,"Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/19/1979,1979,10th,198,N.,Scott,Momaday,N. Scott Momaday
+366,Panel: The Sixties,"Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/20/1979,1979,10th,88,Grace,,Paley,Grace Paley
+366,Panel: The Sixties,"Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/20/1979,1979,10th,198,N.,Scott,Momaday,N. Scott Momaday
+366,Panel: The Sixties,"Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/20/1979,1979,10th,223,Robert,,Bly,Robert Bly
+367,"Reading: Judith McCombs, Margaret Kingery and Robert Bly","Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/20/1979,1979,10th,130,Judith,,McCombs,Judith McCombs
+367,"Reading: Judith McCombs, Margaret Kingery and Robert Bly","Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/20/1979,1979,10th,166,Margaret,,Kingery,Margaret Kingery
+367,"Reading: Judith McCombs, Margaret Kingery and Robert Bly","Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/20/1979,1979,10th,223,Robert,,Bly,Robert Bly
+368,Reading: Robert Bly,"Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/21/1979,1979,10th,223,Robert,,Bly,Robert Bly
+369,Panel: The Seventies,"Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/21/1979,1979,10th,79,Frederick,,Exley,Frederick Exley
+369,Panel: The Seventies,"Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/21/1979,1979,10th,88,Grace,,Paley,Grace Paley
+369,Panel: The Seventies,"Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/21/1979,1979,10th,223,Robert,,Bly,Robert Bly
+370,"Reading: Grace Paley, Carolyn Wright, and Crystal Maclean-Field","Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/21/1979,1979,10th,49,Crystal,,Maclean-Field,Crystal Maclean-Field
+370,"Reading: Grace Paley, Carolyn Wright, and Crystal Maclean-Field","Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/21/1979,1979,10th,88,Grace,,Paley,Grace Paley
+370,"Reading: Grace Paley, Carolyn Wright, and Crystal Maclean-Field","Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/21/1979,1979,10th,343,Carol, ,Wright,Carol  Wright
+371,Reading: Grace Paley,"Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/21/1979,1979,10th,88,Grace,,Paley,Grace Paley
+372,Performance by UND's Theater Department,"Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/22/1979,1979,10th,NULL,NULL,NULL,NULL,NULL
+373,Panel: Theater During the Sixties and Seventies,"Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/22/1979,1979,10th,68,Edward,,Albee,Edward Albee
+373,Panel: Theater During the Sixties and Seventies,"Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/22/1979,1979,10th,182,Megan,,Terry,Megan Terry
+374,Reading: Frederick Exley,"Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/22/1979,1979,10th,79,Frederick,,Exley,Frederick Exley
+375,Interview,"Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/23/1979,1979,10th,68,Edward,,Albee,Edward Albee
+375,Interview,"Epitomes, Bombast & Climaxes: A Recurring Dithyramb",3/23/1979,1979,10th,182,Megan,,Terry,Megan Terry
+376,Panel: Literature as a Mirror,The Mirror and the Lamp,3/20/1978,1978,9th,75,Eudora,,Welty,Eudora Welty
+376,Panel: Literature as a Mirror,The Mirror and the Lamp,3/20/1978,1978,9th,222,Ring,,"Lardner, Jr.","Ring Lardner, Jr."
+376,Panel: Literature as a Mirror,The Mirror and the Lamp,3/20/1978,1978,9th,269,Tillie,,Olsen,Tillie Olsen
+377,Reading: Eudora Welty,The Mirror and the Lamp,3/20/1978,1978,9th,75,Eudora,,Welty,Eudora Welty
+378,Panel: Literature and Society,The Mirror and the Lamp,3/21/1978,1978,9th,75,Eudora,,Welty,Eudora Welty
+378,Panel: Literature and Society,The Mirror and the Lamp,3/21/1978,1978,9th,222,Ring,,"Lardner, Jr.","Ring Lardner, Jr."
+378,Panel: Literature and Society,The Mirror and the Lamp,3/21/1978,1978,9th,269,Tillie,,Olsen,Tillie Olsen
+379,"Reading: Ring Lardner, Jr.",The Mirror and the Lamp,3/21/1978,1978,9th,222,Ring,,"Lardner, Jr.","Ring Lardner, Jr."
+380,Reading: Tillie Olsen,The Mirror and the Lamp,3/21/1978,1978,9th,269,Tillie,,Olsen,Tillie Olsen
+381,Panel: Literature as a Lamp,The Mirror and the Lamp,3/22/1978,1978,9th,13,Amiri,,Baraka,Amiri Baraka
+381,Panel: Literature as a Lamp,The Mirror and the Lamp,3/22/1978,1978,9th,116,John,,Ashbery,John Ashbery
+381,Panel: Literature as a Lamp,The Mirror and the Lamp,3/22/1978,1978,9th,288,William,S.,Burroughs,William S. Burroughs
+382,Reading: Amiri Baraka,The Mirror and the Lamp,3/22/1978,1978,9th,13,Amiri,,Baraka,Amiri Baraka
+383,Reading: William S. Burroughs,The Mirror and the Lamp,3/22/1978,1978,9th,288,William,S.,Burroughs,William S. Burroughs
+384,Panel: The Mirror and the Lamp,The Mirror and the Lamp,3/23/1978,1978,9th,13,Amiri,,Baraka,Amiri Baraka
+384,Panel: The Mirror and the Lamp,The Mirror and the Lamp,3/23/1978,1978,9th,116,John,,Ashbery,John Ashbery
+384,Panel: The Mirror and the Lamp,The Mirror and the Lamp,3/23/1978,1978,9th,288,William,S.,Burroughs,William S. Burroughs
+385,Reading: John Ashbery,The Mirror and the Lamp,3/23/1978,1978,9th,116,John,,Ashbery,John Ashbery
+386,Lecture: Harlan Ellison,Literature and Film,3/22/1977,1977,8th,94,Harlan,,Ellison,Harlan Ellison
+387,Lecture: George Garrett,Literature and Film,3/22/1977,1977,8th,85,George,,Garrett,George Garrett
+388,Lecture: Joan Tewkesbury,Literature and Film,3/24/1977,1977,8th,114,Joan,,Tewkesbury,Joan Tewkesbury
+389,Lecture: John Houseman,Literature and Film,3/25/1977,1977,8th,119,John,,Houseman,John Houseman
+390,Panel: Politics in Literature,New Journalism and the Novel,3/16/1976,1976,7th,10,Alix,Kates,Shulman,Alix Kates Shulman
+390,Panel: Politics in Literature,New Journalism and the Novel,3/16/1976,1976,7th,33,B.,J.,Phillips,B. J. Phillips
+390,Panel: Politics in Literature,New Journalism and the Novel,3/16/1976,1976,7th,274,Tom,,Wolfe,Tom Wolfe
+443,Reading: Jessica Lott,Imagine: A Literary Festival on the Prairie,4/2/2014,2014,45th,331,Jessica,,Lott,Jessica Lott
+392,Lecture: B. J. Phillips,New Journalism and the Novel,3/16/1976,1976,7th,33,B.,J.,Phillips,B. J. Phillips
+393,Reading: Tom Wolfe,New Journalism and the Novel,3/16/1976,1976,7th,274,Tom,,Wolfe,Tom Wolfe
+394,Lecture: Ed McClanahan,New Journalism and the Novel,3/18/1976,1976,7th,66,Ed,,McClanahan,Ed McClanahan
+395,Panel: The Novel,New Journalism and the Novel,3/19/1976,1976,7th,66,Ed,,McClanahan,Ed McClanahan
+395,Panel: The Novel,New Journalism and the Novel,3/19/1976,1976,7th,147,Larry,,Woiwode,Larry Woiwode
+395,Panel: The Novel,New Journalism and the Novel,3/19/1976,1976,7th,277,Truman,,Capote,Truman Capote
+396,Reading: Truman Capote,New Journalism and the Novel,3/19/1976,1976,7th,277,Truman,,Capote,Truman Capote
+397,Excerpts from the 6th Annual Writers Conference,Spirit of Place,3/28/1975,1975,6th,140,Ken,,Kesey,Ken Kesey
+397,Excerpts from the 6th Annual Writers Conference,Spirit of Place,3/28/1975,1975,6th,198,N.,Scott,Momaday,N. Scott Momaday
+397,Excerpts from the 6th Annual Writers Conference,Spirit of Place,3/28/1975,1975,6th,283,Wendell,,Berry,Wendell Berry
+397,Excerpts from the 6th Annual Writers Conference,Spirit of Place,3/28/1975,1975,6th,284,William,H.,Gass,William H. Gass
+398,Reading: Lawrence Ferlinghetti ,City Lights in North Dakota,3/19/1974,1974,5th,148,Lawrence,,Ferlinghetti,Lawrence Ferlinghetti
+399,Reading: Allen Ginsberg ,City Lights in North Dakota,3/22/1974,1974,5th,12,Allen,,Ginsberg,Allen Ginsberg
+400,"Reading: Kenneth Rexroth, part 1",City Lights in North Dakota,3/21/1974,1974,5th,141,Kenneth,,Rexroth,Kenneth Rexroth
+401,"Reading: Kenneth Rexroth, part 2",City Lights in North Dakota,3/21/1974,1974,5th,141,Kenneth,,Rexroth,Kenneth Rexroth
+402,Reading: Gregory Corso,City Lights in North Dakota,3/21/1974,1974,5th,89,Gregory,,Corso,Gregory Corso
+474,"Reading: Gary Snyder and Michael McClure, Part 1",City Lights in North Dakota,3/20/1974,1974,5th,84,Gary,,Snyder,Gary Snyder
+474,"Reading: Gary Snyder and Michael McClure, Part 1",City Lights in North Dakota,3/20/1974,1974,5th,185,Michael,,McClure,Michael McClure
+475,"Reading: Gary Snyder and Michael McClure, Part 2",City Lights in North Dakota,3/20/1974,1974,5th,84,Gary,,Snyder,Gary Snyder
+475,"Reading: Gary Snyder and Michael McClure, Part 2",City Lights in North Dakota,3/20/1974,1974,5th,185,Michael,,McClure,Michael McClure
+477,Reading: Mai Der Vang,Citizen,3/22/2017,2017,48th,355,Mai Der, ,Vang,Mai Der  Vang
+478,Reading: Viet Thanh Nguyen,Citizen,3/22/2017,2017,48th,354,Viet,Thanh,Nguyen,Viet Thanh Nguyen
+479,Panel: Voices,Citizen,3/23/2017,2017,48th,356,Layli, ,Long Soldier,Layli  Long Soldier
+479,Panel: Voices,Citizen,3/23/2017,2017,48th,357,Mario, ,"Ybarra, Jr.","Mario  Ybarra, Jr."
+479,Panel: Voices,Citizen,3/23/2017,2017,48th,359,NoViolet, ,Bulawayo,NoViolet  Bulawayo
+479,Panel: Voices,Citizen,3/23/2017,2017,48th,360,Jeff, ,Shotts,Jeff  Shotts
+480,Presentation: Jeff Shotts,Citizen,3/23/2017,2017,48th,360,Jeff, ,Shotts,Jeff  Shotts
+481,Reading: Layli Long Soldier,Citizen,3/23/2017,2017,48th,356,Layli, ,Long Soldier,Layli  Long Soldier
+482,Reading: NoViolet Bulawayo,Citizen,3/23/2017,2017,48th,359,NoViolet, ,Bulawayo,NoViolet  Bulawayo
+483,Panel: Community,Citizen,3/24/2017,2017,48th,355,Mai Der, ,Vang,Mai Der  Vang
+483,Panel: Community,Citizen,3/24/2017,2017,48th,357,Mario, ,"Ybarra, Jr.","Mario  Ybarra, Jr."
+483,Panel: Community,Citizen,3/24/2017,2017,48th,358,Jennine,Capó,Crucet,Jennine Capó Crucet
+483,Panel: Community,Citizen,3/24/2017,2017,48th,359,NoViolet, ,Bulawayo,NoViolet  Bulawayo
+484,"Presentation: Mario Ybarra, Jr.",Citizen,3/24/2017,2017,48th,357,Mario, ,"Ybarra, Jr.","Mario  Ybarra, Jr."
+485,Reading: Jennine Capó Crucet,Citizen,3/24/2017,2017,48th,358,Jennine,Capó,Crucet,Jennine Capó Crucet
+404,Highlights of the 5th Annual Writers Conference,City Lights in North Dakota,3/18/1974,1974,5th,12,Allen,,Ginsberg,Allen Ginsberg
+404,Highlights of the 5th Annual Writers Conference,City Lights in North Dakota,3/18/1974,1974,5th,84,Gary,,Snyder,Gary Snyder
+404,Highlights of the 5th Annual Writers Conference,City Lights in North Dakota,3/18/1974,1974,5th,89,Gregory,,Corso,Gregory Corso
+404,Highlights of the 5th Annual Writers Conference,City Lights in North Dakota,3/18/1974,1974,5th,141,Kenneth,,Rexroth,Kenneth Rexroth
+404,Highlights of the 5th Annual Writers Conference,City Lights in North Dakota,3/18/1974,1974,5th,148,Lawrence,,Ferlinghetti,Lawrence Ferlinghetti
+404,Highlights of the 5th Annual Writers Conference,City Lights in North Dakota,3/18/1974,1974,5th,185,Michael,,McClure,Michael McClure
+404,Highlights of the 5th Annual Writers Conference,City Lights in North Dakota,3/18/1974,1974,5th,211,Peter,,Orlovsky,Peter Orlovsky
+405,Tuesday Open Microphone Session,City Lights in North Dakota,3/19/1974,1974,5th,12,Allen,,Ginsberg,Allen Ginsberg
+405,Tuesday Open Microphone Session,City Lights in North Dakota,3/19/1974,1974,5th,84,Gary,,Snyder,Gary Snyder
+405,Tuesday Open Microphone Session,City Lights in North Dakota,3/19/1974,1974,5th,89,Gregory,,Corso,Gregory Corso
+405,Tuesday Open Microphone Session,City Lights in North Dakota,3/19/1974,1974,5th,141,Kenneth,,Rexroth,Kenneth Rexroth
+405,Tuesday Open Microphone Session,City Lights in North Dakota,3/19/1974,1974,5th,148,Lawrence,,Ferlinghetti,Lawrence Ferlinghetti
+405,Tuesday Open Microphone Session,City Lights in North Dakota,3/19/1974,1974,5th,185,Michael,,McClure,Michael McClure
+405,Tuesday Open Microphone Session,City Lights in North Dakota,3/19/1974,1974,5th,211,Peter,,Orlovsky,Peter Orlovsky
+406,Wednesday Open Microphone Session,City Lights in North Dakota,3/20/1974,1974,5th,12,Allen,,Ginsberg,Allen Ginsberg
+406,Wednesday Open Microphone Session,City Lights in North Dakota,3/20/1974,1974,5th,84,Gary,,Snyder,Gary Snyder
+406,Wednesday Open Microphone Session,City Lights in North Dakota,3/20/1974,1974,5th,141,Kenneth,,Rexroth,Kenneth Rexroth
+406,Wednesday Open Microphone Session,City Lights in North Dakota,3/20/1974,1974,5th,148,Lawrence,,Ferlinghetti,Lawrence Ferlinghetti
+406,Wednesday Open Microphone Session,City Lights in North Dakota,3/20/1974,1974,5th,185,Michael,,McClure,Michael McClure
+406,Wednesday Open Microphone Session,City Lights in North Dakota,3/20/1974,1974,5th,189,Miriam,,Patchen,Miriam Patchen
+406,Wednesday Open Microphone Session,City Lights in North Dakota,3/20/1974,1974,5th,211,Peter,,Orlovsky,Peter Orlovsky
+407,Thursday Open Microphone Session,City Lights in North Dakota,3/21/1974,1974,5th,12,Allen,,Ginsberg,Allen Ginsberg
+407,Thursday Open Microphone Session,City Lights in North Dakota,3/21/1974,1974,5th,89,Gregory,,Corso,Gregory Corso
+407,Thursday Open Microphone Session,City Lights in North Dakota,3/21/1974,1974,5th,141,Kenneth,,Rexroth,Kenneth Rexroth
+407,Thursday Open Microphone Session,City Lights in North Dakota,3/21/1974,1974,5th,148,Lawrence,,Ferlinghetti,Lawrence Ferlinghetti
+407,Thursday Open Microphone Session,City Lights in North Dakota,3/21/1974,1974,5th,185,Michael,,McClure,Michael McClure
+407,Thursday Open Microphone Session,City Lights in North Dakota,3/21/1974,1974,5th,211,Peter,,Orlovsky,Peter Orlovsky
+408,Friday Open Microphone Session,City Lights in North Dakota,3/22/1974,1974,5th,12,Allen,,Ginsberg,Allen Ginsberg
+408,Friday Open Microphone Session,City Lights in North Dakota,3/22/1974,1974,5th,89,Gregory,,Corso,Gregory Corso
+408,Friday Open Microphone Session,City Lights in North Dakota,3/22/1974,1974,5th,141,Kenneth,,Rexroth,Kenneth Rexroth
+408,Friday Open Microphone Session,City Lights in North Dakota,3/22/1974,1974,5th,148,Lawrence,,Ferlinghetti,Lawrence Ferlinghetti
+408,Friday Open Microphone Session,City Lights in North Dakota,3/22/1974,1974,5th,211,Peter,,Orlovsky,Peter Orlovsky
+409,Reading: Richard Bausch,A Portrait of an Artist,3/19/2013,2013,44th,294,Richard,,Bausch,Richard Bausch
+413,Reading: Dorothy Allison,A Portrait of an Artist,3/19/2013,2013,44th,293,Dorothy,,Allison,Dorothy Allison
+414,Panel: Remembrance of Things Past,A Portrait of an Artist,3/20/2013,2013,44th,293,Dorothy,,Allison,Dorothy Allison
+414,Panel: Remembrance of Things Past,A Portrait of an Artist,3/20/2013,2013,44th,294,Richard,,Bausch,Richard Bausch
+414,Panel: Remembrance of Things Past,A Portrait of an Artist,3/20/2013,2013,44th,296,Mary Jo,,Bang,Mary Jo Bang
+410,Lecture: Marcel Ophuls,Literature and Film,3/23/1977,1977,8th,164,Marcel,,Ophuls,Marcel Ophuls
+411,Reading: Larry McMurty,Literature and Film,3/24/1977,1977,8th,145,Larry,,McMurtry,Larry McMurtry
+444,Reading: Brian Maxwell,Imagine: A Literary Festival on the Prairie,4/4/2014,2014,45th,333,Brian,,Maxwell,Brian Maxwell
+412,Reading: William H. Gass,Spirit of Place,3/21/1975,1975,6th,284,William,H.,Gass,William H. Gass
+416,Reading: Nick Flynn,A Portrait of an Artist,3/20/2013,2013,44th,300,Nick,,Flynn,Nick Flynn
+415,Reading: Mary Jo Bang,A Portrait of an Artist,3/20/2013,2013,44th,296,Mary Jo,,Bang,Mary Jo Bang
+417,Panel: Diving into the Wreck,A Portrait of an Artist,3/21/2013,2013,44th,295,Ed,Bok,Lee,Ed Bok Lee
+417,Panel: Diving into the Wreck,A Portrait of an Artist,3/21/2013,2013,44th,299,Cheryl,,Strayed,Cheryl Strayed
+417,Panel: Diving into the Wreck,A Portrait of an Artist,3/21/2013,2013,44th,300,Nick,,Flynn,Nick Flynn
+418,Reading: Ed Bok Lee,A Portrait of an Artist,3/21/2013,2013,44th,295,Ed,Bok,Lee,Ed Bok Lee
+419,Reading: Cheryl Strayed,A Portrait of an Artist,3/21/2013,2013,44th,299,Cheryl,,Strayed,Cheryl Strayed
+420,Panel: White Noise,A Portrait of an Artist,3/22/2013,2013,44th,295,Ed,Bok,Lee,Ed Bok Lee
+420,Panel: White Noise,A Portrait of an Artist,3/22/2013,2013,44th,297,Gary,,Shteyngart,Gary Shteyngart
+420,Panel: White Noise,A Portrait of an Artist,3/22/2013,2013,44th,298,Tony,,Kushner,Tony Kushner
+421,Reading: Gary Shteyngart,A Portrait of an Artist,3/22/2013,2013,44th,297,Gary,,Shteyngart,Gary Shteyngart
+422,A Conversation with Tony Kushner,A Portrait of an Artist,3/22/2013,2013,44th,298,Tony,,Kushner,Tony Kushner
+423,Reading: Wendell Berry,Spirit of Place,3/19/1975,1975,6th,283,Wendell,,Berry,Wendell Berry
+424,Reading: Ishmael Reed,Spirit of Place,3/20/1975,1975,6th,318,Ishmael,,Reed,Ishmael Reed
+425,Reading: Ken Kesey,Spirit of Place,3/18/1975,1975,6th,140,Ken,,Kesey,Ken Kesey
+426,Reading: John Barth,Spirit of Place,3/21/1975,1975,6th,302,John,,Barth,John Barth
+427,Reading: Alice Walker,Spirit of Place,3/20/1975,1975,6th,321,Alice,,Walker,Alice Walker
+428,Reading: Wendell Berry at Washburn,Spirit of Place,3/17/1975,1975,6th,283,Wendell,,Berry,Wendell Berry
+429,Panel,Spirit of Place,3/21/1975,1975,6th,284,William,H.,Gass,William H. Gass
+429,Panel,Spirit of Place,3/21/1975,1975,6th,302,John,,Barth,John Barth
+429,Panel,Spirit of Place,3/21/1975,1975,6th,318,Ishmael,,Reed,Ishmael Reed
+430,Panel,Spirit of Place,3/19/1975,1975,6th,140,Ken,,Kesey,Ken Kesey
+430,Panel,Spirit of Place,3/19/1975,1975,6th,198,N.,Scott,Momaday,N. Scott Momaday
+430,Panel,Spirit of Place,3/19/1975,1975,6th,283,Wendell,,Berry,Wendell Berry
+430,Panel,Spirit of Place,3/19/1975,1975,6th,321,Alice,,Walker,Alice Walker
+431,Panel,Spirit of Place,3/20/1975,1975,6th,284,William,H.,Gass,William H. Gass
+431,Panel,Spirit of Place,3/20/1975,1975,6th,318,Ishmael,,Reed,Ishmael Reed
+431,Panel,Spirit of Place,3/20/1975,1975,6th,321,Alice,,Walker,Alice Walker
+432,Reading: George Garrett,Southern Writers Conference on the Arts,4/21/1970,1970,1st,85,George,,Garrett,George Garrett
+433,Reading: James Whitehead,Southern Writers Conference on the Arts,4/22/1970,1970,1st,105,James,,Whitehead,James Whitehead
+434,Presentation: William Anderson,Southern Writers Conference on the Arts,4/24/1970,1970,1st,326,William,,Anderson,William Anderson
+435,Reading: Peter Taylor,Southern Writers Conference on the Arts,4/24/1970,1970,1st,320,Peter,,Taylor,Peter Taylor
+436,Presentation: Cyril Satorsky,Southern Writers Conference on the Arts,4/22/1970,1970,1st,327,Cyril ,,Satorsky,Cyril Satorsky
+437,Panel,Southern Writers Conference on the Arts,4/25/1970,1970,1st,85,George,,Garrett,George Garrett
+437,Panel,Southern Writers Conference on the Arts,4/25/1970,1970,1st,105,James,,Whitehead,James Whitehead
+437,Panel,Southern Writers Conference on the Arts,4/25/1970,1970,1st,304,John,,Carr,John Carr
+437,Panel,Southern Writers Conference on the Arts,4/25/1970,1970,1st,320,Peter,,Taylor,Peter Taylor
+438,Panel: New Directions,Women in the Arts,3/13/1973,1973,4th,303,Gwendolyn,,Brooks,Gwendolyn Brooks
+438,Panel: New Directions,Women in the Arts,3/13/1973,1973,4th,309,Carolyn,,Kizer,Carolyn Kizer
+438,Panel: New Directions,Women in the Arts,3/13/1973,1973,4th,311,Myrna,,Lamb,Myrna Lamb
+438,Panel: New Directions,Women in the Arts,3/13/1973,1973,4th,325,Mary,,McCarthy,Mary McCarthy
+438,Panel: New Directions,Women in the Arts,3/13/1973,1973,4th,328,Lois,,McGuire,Lois McGuire
+439,3rd Annual UND Writers Conference,American Indian Writers Conference,3/20/1972,1972,3rd,104,James,,Welch,James Welch
+439,3rd Annual UND Writers Conference,American Indian Writers Conference,3/20/1972,1972,3rd,267,Thomas,,McGrath,Thomas McGrath
+439,3rd Annual UND Writers Conference,American Indian Writers Conference,3/20/1972,1972,3rd,313,Frederick,,Manfred,Frederick Manfred
+439,3rd Annual UND Writers Conference,American Indian Writers Conference,3/20/1972,1972,3rd,314,Ed,,McGaa,Ed McGaa
+439,3rd Annual UND Writers Conference,American Indian Writers Conference,3/20/1972,1972,3rd,317,Simon,,Ortiz,Simon Ortiz
+439,3rd Annual UND Writers Conference,American Indian Writers Conference,3/20/1972,1972,3rd,319,Jerome,,Rothenberg,Jerome Rothenberg
+439,3rd Annual UND Writers Conference,American Indian Writers Conference,3/20/1972,1972,3rd,324,Ray,,Young Bear,Ray Young Bear
+440,2nd Annual UND Writers Conference,Northern Plains Writers Conference,2/16/1971,1971,2nd,267,Thomas,,McGrath,Thomas McGrath
+440,2nd Annual UND Writers Conference,Northern Plains Writers Conference,2/16/1971,1971,2nd,306,Roland,,Flint,Roland Flint
+440,2nd Annual UND Writers Conference,Northern Plains Writers Conference,2/16/1971,1971,2nd,307,Lois,P.,Hudson,Lois P. Hudson
+440,2nd Annual UND Writers Conference,Northern Plains Writers Conference,2/16/1971,1971,2nd,312,Richard,,Lyons,Richard Lyons
+440,2nd Annual UND Writers Conference,Northern Plains Writers Conference,2/16/1971,1971,2nd,315,John,,Milton,John Milton
+440,2nd Annual UND Writers Conference,Northern Plains Writers Conference,2/16/1971,1971,2nd,316,Anthony,,Oldknow,Anthony Oldknow
+440,2nd Annual UND Writers Conference,Northern Plains Writers Conference,2/16/1971,1971,2nd,330,David,,Evans,David Evans
+441,A Conversation with Frederick Wiseman,Worklife/Lifework,3/23/2001,2001,32nd,80,Frederick,,Wiseman,Frederick Wiseman
+442,Reading: Colson Whitehead,Imagine: A Literary Festival on the Prairie,4/4/2014,2014,45th,334,Colson,,Whitehead,Colson Whitehead
+445,Panel: Standin' at the Crossroads: Literature,Imagine: A Literary Festival on the Prairie,4/4/2014,2014,45th,331,Jessica,,Lott,Jessica Lott
+445,Panel: Standin' at the Crossroads: Literature,Imagine: A Literary Festival on the Prairie,4/4/2014,2014,45th,333,Brian,,Maxwell,Brian Maxwell
+445,Panel: Standin' at the Crossroads: Literature,Imagine: A Literary Festival on the Prairie,4/4/2014,2014,45th,334,Colson,,Whitehead,Colson Whitehead
+445,Panel: Standin' at the Crossroads: Literature,Imagine: A Literary Festival on the Prairie,4/4/2014,2014,45th,335,Robert,,Pinsky,Robert Pinsky
+446,Reading: Sarah Leavitt,Imagine: A Literary Festival on the Prairie,4/3/2014,2014,45th,336,Sarah,,Leavitt,Sarah Leavitt
+447,Performance: Robert Pinsky,Imagine: A Literary Festival on the Prairie,4/3/2014,2014,45th,335,Robert,,Pinsky,Robert Pinsky
+448,"Panel: Literature, Art, and all that Jazz",Imagine: A Literary Festival on the Prairie,4/3/2014,2014,45th,332,Geoff,,Dyer,Geoff Dyer
+448,"Panel: Literature, Art, and all that Jazz",Imagine: A Literary Festival on the Prairie,4/3/2014,2014,45th,333,Brian,,Maxwell,Brian Maxwell
+448,"Panel: Literature, Art, and all that Jazz",Imagine: A Literary Festival on the Prairie,4/3/2014,2014,45th,335,Robert,,Pinsky,Robert Pinsky
+448,"Panel: Literature, Art, and all that Jazz",Imagine: A Literary Festival on the Prairie,4/3/2014,2014,45th,336,Sarah,,Leavitt,Sarah Leavitt
+449,Reading: Geoff Dyer,Imagine: A Literary Festival on the Prairie,4/2/2014,2014,45th,332,Geoff,,Dyer,Geoff Dyer
+450,Panel: Muddy Waters: Literature and Culture,Imagine: A Literary Festival on the Prairie,4/2/2014,2014,45th,331,Jessica,,Lott,Jessica Lott
+450,Panel: Muddy Waters: Literature and Culture,Imagine: A Literary Festival on the Prairie,4/2/2014,2014,45th,332,Geoff,,Dyer,Geoff Dyer
+450,Panel: Muddy Waters: Literature and Culture,Imagine: A Literary Festival on the Prairie,4/2/2014,2014,45th,336,Sarah,,Leavitt,Sarah Leavitt
+451,Reading: Voices of the Valley,Imagine: A Literary Festival on the Prairie,4/3/2014,2014,45th,NULL,NULL,NULL,NULL,NULL
+452,Panel: Living Writing,The Other Half,3/25/2015,2015,46th,339,Alexandra, ,Grant,Alexandra  Grant
+452,Panel: Living Writing,The Other Half,3/25/2015,2015,46th,340,Torill, ,Stokkan,Torill  Stokkan
+452,Panel: Living Writing,The Other Half,3/25/2015,2015,46th,341,Gish, ,Jen,Gish  Jen
+453,Reading: Gish Jen,The Other Half,3/25/2015,2015,46th,341,Gish, ,Jen,Gish  Jen
+454,Reading: Alexandra Grant,The Other Half,3/25/2015,2015,46th,339,Alexandra, ,Grant,Alexandra  Grant
+455,Panel: In the Heart of the Country,The Other Half,3/26/2015,2015,46th,337,Roxane, ,Gay,Roxane  Gay
+455,Panel: In the Heart of the Country,The Other Half,3/26/2015,2015,46th,338,Carol, ,Muske-Dukes,Carol  Muske-Dukes
+455,Panel: In the Heart of the Country,The Other Half,3/26/2015,2015,46th,341,Gish, ,Jen,Gish  Jen
+455,Panel: In the Heart of the Country,The Other Half,3/26/2015,2015,46th,342,Bonnie,Jo,Campbell,Bonnie Jo Campbell
+456,Reading: Carol Muske-Dukes,The Other Half,3/26/2015,2015,46th,338,Carol, ,Muske-Dukes,Carol  Muske-Dukes
+457,Reading: Bonnie Jo Campbell,The Other Half,3/26/2015,2015,46th,342,Bonnie,Jo,Campbell,Bonnie Jo Campbell
+458,Panel: In the Heart of the City,The Other Half,3/27/2015,2015,46th,337,Roxane, ,Gay,Roxane  Gay
+458,Panel: In the Heart of the City,The Other Half,3/27/2015,2015,46th,339,Alexandra, ,Grant,Alexandra  Grant
+458,Panel: In the Heart of the City,The Other Half,3/27/2015,2015,46th,342,Bonnie,Jo,Campbell,Bonnie Jo Campbell
+459,Reading: Torill Stokkan,The Other Half,3/27/2015,2015,46th,340,Torill, ,Stokkan,Torill  Stokkan
+460,Reading: Roxane Gay,The Other Half,3/27/2015,2015,46th,337,Roxane, ,Gay,Roxane  Gay
+461,Reading: Voices of the Valley,The Other Half,3/26/2015,2015,46th,NULL,NULL,NULL,NULL,NULL
+463,Reading: Katharine Coles,The Art of Science,4/7/2016,2016,47th,348,Katharine, ,Coles,Katharine  Coles
+462,Performance: Zeitgeist,"Mind the Gap: Print, New Media, Art",3/27/2010,2010,41st,344,Zeitgeist, , ,Zeitgeist  
+476,Panel: Refuge,Citizen,3/22/2017,2017,48th,354,Viet,Thanh,Nguyen,Viet Thanh Nguyen
+476,Panel: Refuge,Citizen,3/22/2017,2017,48th,355,Mai Der, ,Vang,Mai Der  Vang
+464,Presentation: Brian Greene,The Art of Science,4/6/2016,2016,47th,347,Brian, ,Greene,Brian  Greene
+465,Presentation: Allison Leigh Holt,The Art of Science,4/6/2016,2016,47th,351,Allison,Leigh,Holt,Allison Leigh Holt
+466,Panel: The Two Cultures,The Art of Science,4/6/2016,2016,47th,347,Brian, ,Greene,Brian  Greene
+466,Panel: The Two Cultures,The Art of Science,4/6/2016,2016,47th,348,Katharine, ,Coles,Katharine  Coles
+466,Panel: The Two Cultures,The Art of Science,4/6/2016,2016,47th,351,Allison,Leigh,Holt,Allison Leigh Holt
+467,Panel: Other Worlds,The Art of Science,4/7/2016,2016,47th,345,Kim,Stanley,Robinson,Kim Stanley Robinson
+467,Panel: Other Worlds,The Art of Science,4/7/2016,2016,47th,347,Brian, ,Greene,Brian  Greene
+467,Panel: Other Worlds,The Art of Science,4/7/2016,2016,47th,351,Allison,Leigh,Holt,Allison Leigh Holt
+467,Panel: Other Worlds,The Art of Science,4/7/2016,2016,47th,353,Frank, ,Huyler,Frank  Huyler
+468,Reading: Kim Stanley Robinson,The Art of Science,4/7/2016,2016,47th,345,Kim,Stanley,Robinson,Kim Stanley Robinson
+469,Panel: The Butterfly Effect,The Art of Science,4/8/2016,2016,47th,348,Katharine, ,Coles,Katharine  Coles
+469,Panel: The Butterfly Effect,The Art of Science,4/8/2016,2016,47th,350,Tania, ,James,Tania  James
+469,Panel: The Butterfly Effect,The Art of Science,4/8/2016,2016,47th,353,Frank, ,Huyler,Frank  Huyler
+470,Reading: Tania James,The Art of Science,4/8/2016,2016,47th,350,Tania, ,James,Tania  James
+471,Reading: Dr. Frank Huyler,The Art of Science,4/8/2016,2016,47th,353,Frank, ,Huyler,Frank  Huyler
+472,Reading: Voices of the Valley,The Art of Science,4/7/2016,2016,47th,NULL,NULL,NULL,NULL,NULL
+473,"Prairie Public's ""Main Street"" with Brian Greene",The Art of Science,4/7/2016,2016,47th,347,Brian, ,Greene,Brian  Greene
+486,Read: Voices of the Valley,Citizen,3/23/2017,2017,48th,NULL,NULL,NULL,NULL,NULL
